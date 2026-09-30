@@ -37,8 +37,8 @@ d.incidents()  # what really happened in the logs
 | `users` | 300 | `user_id`, `account_name`, `region` (us-east, us-west, eu-west, asia-east), `photos_total`, `last_login` |
 | `cameras` | 20 | phones and cameras (`manufacturer`, `print_name`) |
 | `photos` | 40,000 | `photo_id` (in upload order), `user_id`, storage `path`, `upload_date`, `size` (MB), `camera_id`, `camera_setting`, `format` (jpg, heic, png), `title`, true `objects` and `people` (user ids) |
-| `albums`, `album_photos` | 313, 8,856 | albums of a user; `shared` albums have followers |
-| `album_followers` | 756 | users who follow a shared album (many-to-many) |
+| `albums`, `album_photos` | 301, 8,126 | albums of a user; `shared` albums have followers |
+| `album_followers` | 989 | users who follow a shared album (many-to-many) |
 | `friendships` | 1,610 | pairs of users |
 | `devices` | 300 | phone, camera, app version, and whether the phone saves HEIC |
 
@@ -52,7 +52,7 @@ time zone. The photos `133422131` to `133422133`, the two users, and the cameras
 
 | File | Format | Content |
 |---|---|---|
-| `web/access-web-{1..4}.log` | nginx combined log | about 49,000 requests to 4 web servers: photo views (`GET /st/...`), thumbnails, static files, API calls, uploads, logins, bots |
+| `web/access-web-{1..4}.log` | nginx combined log | about 50,000 requests to 4 web servers: photo views (`GET /st/...`), thumbnails, static files, API calls, uploads, logins, bots |
 | `web/error-web-{1..4}.log` | nginx error log | failed upstream requests, large responses |
 | `services/upload.jsonl` | JSON lines | the upload service |
 | `services/thumbnailer.log` | Python logging | the thumbnail service |
