@@ -1,0 +1,20 @@
+[project]
+name = "sc08-lambda-architecture"
+version = "0.1.0"
+description = "A lambda architecture: batch layer, speed layer, and serving layer for view counts"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+    "photo-data",
+    "confluent-kafka>=2.15",
+    "redis>=8.1",
+    "duckdb>=1.5",
+    "fastapi>=0.141",
+    "uvicorn>=0.54",
+    "httpx>=0.28",
+]
+
+[tool.uv]
+package = false
+
+[tool.uv.sources]
+photo-data = { path = "../photo-data", editable = true }
