@@ -1,0 +1,10 @@
+time=2021-12-06T10:12:03Z level=info msg="deploy started" service=search version=3.1.0 commit=a41b9e2 actor=ci
+time=2021-12-06T10:12:45Z level=info msg="deploy finished" service=search version=3.1.0 instances=2 duration_s=42
+time=2021-12-06T16:40:27Z level=info msg="deploy started" service=web-frontend version=2021.12.06 commit=77c01fd actor=ci
+time=2021-12-06T16:41:09Z level=info msg="deploy finished" service=web-frontend version=2021.12.06 instances=2 duration_s=42
+time=2021-12-07T15:51:58Z level=info msg="deploy started" service=thumbnailer version=2.8.0 commit=3fa9c1e actor=ci
+time=2021-12-07T15:52:40Z level=info msg="deploy finished" service=thumbnailer version=2.8.0 instances=2 duration_s=42
+time=2021-12-07T23:03:23Z level=info msg="rollback started" service=thumbnailer version=2.7.3 commit=d02e4b8 actor=oncall-maria
+time=2021-12-07T23:04:05Z level=info msg="rollback finished" service=thumbnailer version=2.7.3 instances=2 duration_s=42
+time=2021-12-08T11:05:44Z level=info msg="deploy started" service=upload version=4.2.1 commit=9be3a70 actor=ci
+time=2021-12-08T11:06:26Z level=info msg="deploy finished" service=upload version=4.2.1 instances=2 duration_s=42

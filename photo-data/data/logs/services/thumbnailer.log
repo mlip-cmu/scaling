@@ -1,0 +1,654 @@
+2021-12-06 00:00:00,111 INFO [thumbnailer-1] starting thumbnailer 2.7.3 (pillow 8.4.0, pillow-heif 0.1.4)
+2021-12-06 00:00:00,222 INFO [thumbnailer-2] starting thumbnailer 2.7.3 (pillow 8.4.0, pillow-heif 0.1.4)
+2021-12-06 00:01:40,464 INFO [thumbnailer-1] thumbnail created photo=133422684 format=heic sizes=256,1024 ms=84
+2021-12-06 00:02:13,486 INFO [thumbnailer-1] thumbnail created photo=133422685 format=heic sizes=256,1024 ms=103
+2021-12-06 00:04:34,977 INFO [thumbnailer-2] thumbnail created photo=133422686 format=jpg sizes=256,1024 ms=69
+2021-12-06 00:05:22,823 INFO [thumbnailer-1] thumbnail created photo=133422687 format=heic sizes=256,1024 ms=111
+2021-12-06 00:05:48,997 INFO [thumbnailer-1] thumbnail created photo=133422688 format=jpg sizes=256,1024 ms=32
+2021-12-06 00:06:37,315 INFO [thumbnailer-2] thumbnail created photo=133422689 format=heic sizes=256,1024 ms=73
+2021-12-06 00:10:32,578 INFO [thumbnailer-2] thumbnail created photo=133422690 format=jpg sizes=256,1024 ms=24
+2021-12-06 00:10:33,526 INFO [thumbnailer-1] thumbnail created photo=133422691 format=jpg sizes=256,1024 ms=29
+2021-12-06 00:10:45,122 INFO [thumbnailer-1] thumbnail created photo=133422692 format=heic sizes=256,1024 ms=24
+2021-12-06 00:10:48,376 INFO [thumbnailer-2] thumbnail created photo=133422693 format=heic sizes=256,1024 ms=119
+2021-12-06 00:11:12,621 INFO [thumbnailer-1] thumbnail created photo=133422694 format=jpg sizes=256,1024 ms=33
+2021-12-06 00:11:13,944 INFO [thumbnailer-2] thumbnail created photo=133422695 format=jpg sizes=256,1024 ms=18
+2021-12-06 00:11:16,104 INFO [thumbnailer-2] thumbnail created photo=133422696 format=jpg sizes=256,1024 ms=40
+2021-12-06 00:12:10,677 INFO [thumbnailer-1] thumbnail created photo=133422697 format=jpg sizes=256,1024 ms=56
+2021-12-06 00:14:05,550 INFO [thumbnailer-2] thumbnail created photo=133422698 format=heic sizes=256,1024 ms=61
+2021-12-06 00:14:07,201 INFO [thumbnailer-2] thumbnail created photo=133422699 format=jpg sizes=256,1024 ms=38
+2021-12-06 00:28:14,678 INFO [thumbnailer-1] thumbnail created photo=133422700 format=jpg sizes=256,1024 ms=17
+2021-12-06 00:34:46,719 INFO [thumbnailer-1] thumbnail created photo=133422701 format=jpg sizes=256,1024 ms=18
+2021-12-06 00:35:23,173 INFO [thumbnailer-1] thumbnail created photo=133422702 format=jpg sizes=256,1024 ms=40
+2021-12-06 00:35:53,169 INFO [thumbnailer-2] thumbnail created photo=133422703 format=jpg sizes=256,1024 ms=28
+2021-12-06 00:37:51,829 INFO [thumbnailer-1] thumbnail created photo=133422704 format=jpg sizes=256,1024 ms=38
+2021-12-06 00:38:22,599 INFO [thumbnailer-1] thumbnail created photo=133422705 format=heic sizes=256,1024 ms=47
+2021-12-06 00:41:14,187 INFO [thumbnailer-1] thumbnail created photo=133422706 format=heic sizes=256,1024 ms=26
+2021-12-06 00:44:18,937 INFO [thumbnailer-2] thumbnail created photo=133422707 format=heic sizes=256,1024 ms=34
+2021-12-06 00:45:01,464 INFO [thumbnailer-2] thumbnail created photo=133422708 format=heic sizes=256,1024 ms=46
+2021-12-06 00:45:06,174 INFO [thumbnailer-1] thumbnail created photo=133422709 format=heic sizes=256,1024 ms=48
+2021-12-06 00:45:57,155 INFO [thumbnailer-1] thumbnail created photo=133422710 format=jpg sizes=256,1024 ms=77
+2021-12-06 01:11:11,706 INFO [thumbnailer-1] thumbnail created photo=133422711 format=jpg sizes=256,1024 ms=16
+2021-12-06 01:13:01,282 INFO [thumbnailer-1] thumbnail created photo=133422712 format=jpg sizes=256,1024 ms=27
+2021-12-06 01:17:52,196 INFO [thumbnailer-1] thumbnail created photo=133422713 format=heic sizes=256,1024 ms=67
+2021-12-06 01:24:56,991 INFO [thumbnailer-2] thumbnail created photo=133422714 format=jpg sizes=256,1024 ms=50
+2021-12-06 01:27:47,411 INFO [thumbnailer-2] thumbnail created photo=133422715 format=jpg sizes=256,1024 ms=26
+2021-12-06 01:31:41,402 INFO [thumbnailer-1] thumbnail created photo=133422716 format=jpg sizes=256,1024 ms=17
+2021-12-06 01:34:05,521 INFO [thumbnailer-2] thumbnail created photo=133422717 format=jpg sizes=256,1024 ms=24
+2021-12-06 01:48:51,726 INFO [thumbnailer-1] thumbnail created photo=133422718 format=heic sizes=256,1024 ms=176
+2021-12-06 01:50:17,866 INFO [thumbnailer-1] thumbnail created photo=133422719 format=jpg sizes=256,1024 ms=27
+2021-12-06 01:51:23,664 INFO [thumbnailer-2] thumbnail created photo=133422720 format=heic sizes=256,1024 ms=81
+2021-12-06 01:51:52,408 INFO [thumbnailer-2] thumbnail created photo=133422721 format=heic sizes=256,1024 ms=43
+2021-12-06 01:51:58,023 INFO [thumbnailer-2] thumbnail created photo=133422722 format=heic sizes=256,1024 ms=52
+2021-12-06 01:52:15,620 INFO [thumbnailer-1] thumbnail created photo=133422723 format=jpg sizes=256,1024 ms=61
+2021-12-06 01:53:44,401 INFO [thumbnailer-1] thumbnail created photo=133422724 format=png sizes=256,1024 ms=16
+2021-12-06 02:11:57,220 INFO [thumbnailer-2] thumbnail created photo=133422725 format=jpg sizes=256,1024 ms=36
+2021-12-06 02:14:08,120 INFO [thumbnailer-1] thumbnail created photo=133422726 format=heic sizes=256,1024 ms=127
+2021-12-06 02:15:51,916 INFO [thumbnailer-2] thumbnail created photo=133422727 format=png sizes=256,1024 ms=23
+2021-12-06 02:16:24,195 INFO [thumbnailer-2] thumbnail created photo=133422728 format=heic sizes=256,1024 ms=58
+2021-12-06 03:53:33,219 INFO [thumbnailer-2] thumbnail created photo=133422729 format=jpg sizes=256,1024 ms=21
+2021-12-06 03:55:07,365 INFO [thumbnailer-1] thumbnail created photo=133422730 format=jpg sizes=256,1024 ms=28
+2021-12-06 03:57:27,906 INFO [thumbnailer-2] thumbnail created photo=133422731 format=jpg sizes=256,1024 ms=15
+2021-12-06 03:57:45,942 INFO [thumbnailer-1] thumbnail created photo=133422732 format=jpg sizes=256,1024 ms=29
+2021-12-06 04:00:57,268 INFO [thumbnailer-2] thumbnail created photo=133422733 format=jpg sizes=256,1024 ms=35
+2021-12-06 04:04:02,216 INFO [thumbnailer-2] thumbnail created photo=133422734 format=jpg sizes=256,1024 ms=60
+2021-12-06 04:05:21,986 INFO [thumbnailer-1] thumbnail created photo=133422735 format=jpg sizes=256,1024 ms=21
+2021-12-06 05:23:52,939 INFO [thumbnailer-2] thumbnail created photo=133422736 format=jpg sizes=256,1024 ms=70
+2021-12-06 05:23:59,183 INFO [thumbnailer-1] thumbnail created photo=133422737 format=heic sizes=256,1024 ms=74
+2021-12-06 05:25:14,929 INFO [thumbnailer-2] thumbnail created photo=133422738 format=jpg sizes=256,1024 ms=26
+2021-12-06 05:25:55,126 INFO [thumbnailer-1] thumbnail created photo=133422739 format=heic sizes=256,1024 ms=38
+2021-12-06 05:26:43,775 INFO [thumbnailer-1] thumbnail created photo=133422740 format=jpg sizes=256,1024 ms=25
+2021-12-06 05:28:06,681 INFO [thumbnailer-1] thumbnail created photo=133422741 format=jpg sizes=256,1024 ms=33
+2021-12-06 05:30:37,945 INFO [thumbnailer-2] thumbnail created photo=133422742 format=jpg sizes=256,1024 ms=28
+2021-12-06 05:31:08,675 INFO [thumbnailer-1] thumbnail created photo=133422743 format=jpg sizes=256,1024 ms=29
+2021-12-06 06:02:48,399 INFO [thumbnailer-1] thumbnail created photo=133422744 format=jpg sizes=256,1024 ms=21
+2021-12-06 06:05:25,069 INFO [thumbnailer-2] thumbnail created photo=133422745 format=jpg sizes=256,1024 ms=25
+2021-12-06 06:19:23,449 INFO [thumbnailer-1] thumbnail created photo=133422746 format=heic sizes=256,1024 ms=47
+2021-12-06 06:20:07,150 INFO [thumbnailer-1] thumbnail created photo=133422747 format=heic sizes=256,1024 ms=43
+2021-12-06 06:21:43,500 INFO [thumbnailer-2] thumbnail created photo=133422748 format=heic sizes=256,1024 ms=78
+2021-12-06 06:25:40,337 INFO [thumbnailer-2] thumbnail created photo=133422749 format=heic sizes=256,1024 ms=40
+2021-12-06 08:05:32,244 INFO [thumbnailer-2] thumbnail created photo=133422750 format=jpg sizes=256,1024 ms=33
+2021-12-06 08:06:13,839 INFO [thumbnailer-1] thumbnail created photo=133422751 format=jpg sizes=256,1024 ms=22
+2021-12-06 08:06:48,856 INFO [thumbnailer-1] thumbnail created photo=133422752 format=jpg sizes=256,1024 ms=23
+2021-12-06 08:08:13,859 INFO [thumbnailer-1] thumbnail created photo=133422753 format=jpg sizes=256,1024 ms=29
+2021-12-06 08:11:35,381 INFO [thumbnailer-2] thumbnail created photo=133422754 format=jpg sizes=256,1024 ms=30
+2021-12-06 10:08:49,732 INFO [thumbnailer-2] thumbnail created photo=133422755 format=jpg sizes=256,1024 ms=34
+2021-12-06 13:39:25,013 INFO [thumbnailer-1] thumbnail created photo=133422756 format=heic sizes=256,1024 ms=43
+2021-12-06 13:46:56,451 INFO [thumbnailer-1] thumbnail created photo=133422757 format=heic sizes=256,1024 ms=100
+2021-12-06 13:47:41,726 INFO [thumbnailer-1] thumbnail created photo=133422758 format=heic sizes=256,1024 ms=96
+2021-12-06 15:14:42,223 INFO [thumbnailer-1] thumbnail created photo=133422759 format=heic sizes=256,1024 ms=78
+2021-12-06 15:17:28,292 INFO [thumbnailer-1] thumbnail created photo=133422760 format=heic sizes=256,1024 ms=80
+2021-12-06 15:39:21,993 INFO [thumbnailer-1] thumbnail created photo=133422761 format=heic sizes=256,1024 ms=35
+2021-12-06 15:45:17,222 INFO [thumbnailer-2] thumbnail created photo=133422762 format=heic sizes=256,1024 ms=79
+2021-12-06 15:47:06,808 INFO [thumbnailer-1] thumbnail created photo=133422763 format=heic sizes=256,1024 ms=56
+2021-12-06 15:47:12,344 INFO [thumbnailer-1] thumbnail created photo=133422764 format=jpg sizes=256,1024 ms=23
+2021-12-06 15:57:42,661 INFO [thumbnailer-2] thumbnail created photo=133422765 format=jpg sizes=256,1024 ms=23
+2021-12-06 16:26:26,503 INFO [thumbnailer-2] thumbnail created photo=133422766 format=heic sizes=256,1024 ms=78
+2021-12-06 16:39:12,087 INFO [thumbnailer-1] thumbnail created photo=133422767 format=jpg sizes=256,1024 ms=32
+2021-12-06 16:40:12,525 INFO [thumbnailer-1] thumbnail created photo=133422768 format=jpg sizes=256,1024 ms=44
+2021-12-06 16:40:15,486 INFO [thumbnailer-1] thumbnail created photo=133422769 format=jpg sizes=256,1024 ms=75
+2021-12-06 16:42:26,226 INFO [thumbnailer-1] thumbnail created photo=133422770 format=jpg sizes=256,1024 ms=58
+2021-12-06 16:42:28,600 INFO [thumbnailer-1] thumbnail created photo=133422771 format=jpg sizes=256,1024 ms=51
+2021-12-06 16:44:18,181 INFO [thumbnailer-1] thumbnail created photo=133422772 format=jpg sizes=256,1024 ms=54
+2021-12-06 16:44:40,818 INFO [thumbnailer-1] thumbnail created photo=133422773 format=jpg sizes=256,1024 ms=40
+2021-12-06 16:49:53,630 INFO [thumbnailer-1] thumbnail created photo=133422774 format=jpg sizes=256,1024 ms=28
+2021-12-06 16:52:24,352 INFO [thumbnailer-2] thumbnail created photo=133422775 format=jpg sizes=256,1024 ms=27
+2021-12-06 16:53:51,486 INFO [thumbnailer-1] thumbnail created photo=133422776 format=jpg sizes=256,1024 ms=35
+2021-12-06 16:55:21,521 INFO [thumbnailer-2] thumbnail created photo=133422777 format=jpg sizes=256,1024 ms=41
+2021-12-06 17:23:14,381 INFO [thumbnailer-2] thumbnail created photo=133422778 format=jpg sizes=256,1024 ms=25
+2021-12-06 17:23:52,167 INFO [thumbnailer-1] thumbnail created photo=133422779 format=jpg sizes=256,1024 ms=38
+2021-12-06 17:24:26,929 INFO [thumbnailer-2] thumbnail created photo=133422780 format=jpg sizes=256,1024 ms=66
+2021-12-06 18:26:22,560 INFO [thumbnailer-2] thumbnail created photo=133422781 format=jpg sizes=256,1024 ms=21
+2021-12-06 18:47:35,759 INFO [thumbnailer-2] thumbnail created photo=133422782 format=jpg sizes=256,1024 ms=55
+2021-12-06 18:48:02,005 INFO [thumbnailer-1] thumbnail created photo=133422783 format=jpg sizes=256,1024 ms=25
+2021-12-06 18:48:18,687 INFO [thumbnailer-1] thumbnail created photo=133422784 format=jpg sizes=256,1024 ms=23
+2021-12-06 18:50:04,611 INFO [thumbnailer-2] thumbnail created photo=133422785 format=heic sizes=256,1024 ms=36
+2021-12-06 18:50:23,984 INFO [thumbnailer-1] thumbnail created photo=133422786 format=heic sizes=256,1024 ms=83
+2021-12-06 18:51:12,334 INFO [thumbnailer-1] thumbnail created photo=133422787 format=png sizes=256,1024 ms=24
+2021-12-06 18:51:36,691 INFO [thumbnailer-1] thumbnail created photo=133422788 format=jpg sizes=256,1024 ms=18
+2021-12-06 19:01:33,392 INFO [thumbnailer-2] thumbnail created photo=133422789 format=jpg sizes=256,1024 ms=76
+2021-12-06 19:05:08,856 INFO [thumbnailer-1] thumbnail created photo=133422790 format=jpg sizes=256,1024 ms=48
+2021-12-06 19:06:00,706 INFO [thumbnailer-2] thumbnail created photo=133422791 format=jpg sizes=256,1024 ms=50
+2021-12-06 19:06:43,902 INFO [thumbnailer-1] thumbnail created photo=133422792 format=jpg sizes=256,1024 ms=48
+2021-12-06 19:07:26,451 INFO [thumbnailer-2] thumbnail created photo=133422793 format=jpg sizes=256,1024 ms=22
+2021-12-06 19:08:40,079 INFO [thumbnailer-1] thumbnail created photo=133422794 format=jpg sizes=256,1024 ms=48
+2021-12-06 19:12:16,191 INFO [thumbnailer-1] thumbnail created photo=133422795 format=jpg sizes=256,1024 ms=43
+2021-12-06 19:17:18,629 INFO [thumbnailer-1] thumbnail created photo=133422796 format=jpg sizes=256,1024 ms=53
+2021-12-06 19:17:49,795 INFO [thumbnailer-1] thumbnail created photo=133422797 format=jpg sizes=256,1024 ms=36
+2021-12-06 19:18:56,079 INFO [thumbnailer-2] thumbnail created photo=133422798 format=jpg sizes=256,1024 ms=30
+2021-12-06 19:18:58,932 INFO [thumbnailer-2] thumbnail created photo=133422799 format=jpg sizes=256,1024 ms=42
+2021-12-06 19:34:59,626 INFO [thumbnailer-1] thumbnail created photo=133422800 format=jpg sizes=256,1024 ms=30
+2021-12-06 19:37:34,958 INFO [thumbnailer-2] thumbnail created photo=133422801 format=png sizes=256,1024 ms=18
+2021-12-06 19:37:49,157 INFO [thumbnailer-1] thumbnail created photo=133422802 format=heic sizes=256,1024 ms=66
+2021-12-06 19:38:11,748 INFO [thumbnailer-1] thumbnail created photo=133422803 format=heic sizes=256,1024 ms=35
+2021-12-06 19:38:38,656 INFO [thumbnailer-2] thumbnail created photo=133422804 format=heic sizes=256,1024 ms=68
+2021-12-06 19:39:53,043 INFO [thumbnailer-2] thumbnail created photo=133422805 format=heic sizes=256,1024 ms=32
+2021-12-06 19:39:58,896 INFO [thumbnailer-2] thumbnail created photo=133422806 format=jpg sizes=256,1024 ms=39
+2021-12-06 19:40:14,564 INFO [thumbnailer-2] thumbnail created photo=133422807 format=heic sizes=256,1024 ms=47
+2021-12-06 19:40:32,646 INFO [thumbnailer-1] thumbnail created photo=133422808 format=heic sizes=256,1024 ms=36
+2021-12-06 19:41:51,133 INFO [thumbnailer-1] thumbnail created photo=133422809 format=heic sizes=256,1024 ms=57
+2021-12-06 19:42:22,810 INFO [thumbnailer-2] thumbnail created photo=133422810 format=jpg sizes=256,1024 ms=41
+2021-12-06 19:44:17,257 INFO [thumbnailer-2] thumbnail created photo=133422811 format=jpg sizes=256,1024 ms=17
+2021-12-06 19:56:59,728 INFO [thumbnailer-1] thumbnail created photo=133422812 format=jpg sizes=256,1024 ms=30
+2021-12-06 19:58:14,823 INFO [thumbnailer-2] thumbnail created photo=133422813 format=jpg sizes=256,1024 ms=24
+2021-12-06 20:22:15,259 INFO [thumbnailer-1] thumbnail created photo=133422814 format=jpg sizes=256,1024 ms=24
+2021-12-06 20:31:48,902 INFO [thumbnailer-2] thumbnail created photo=133422815 format=heic sizes=256,1024 ms=38
+2021-12-06 20:35:36,566 INFO [thumbnailer-2] thumbnail created photo=133422816 format=heic sizes=256,1024 ms=60
+2021-12-06 21:42:39,414 INFO [thumbnailer-2] thumbnail created photo=133422817 format=heic sizes=256,1024 ms=54
+2021-12-06 21:45:54,238 INFO [thumbnailer-2] thumbnail created photo=133422818 format=heic sizes=256,1024 ms=42
+2021-12-06 21:55:48,925 INFO [thumbnailer-2] thumbnail created photo=133422819 format=jpg sizes=256,1024 ms=42
+2021-12-06 22:00:33,714 INFO [thumbnailer-2] thumbnail created photo=133422820 format=jpg sizes=256,1024 ms=54
+2021-12-06 22:00:57,741 INFO [thumbnailer-2] thumbnail created photo=133422821 format=jpg sizes=256,1024 ms=50
+2021-12-06 22:01:23,973 INFO [thumbnailer-2] thumbnail created photo=133422822 format=jpg sizes=256,1024 ms=36
+2021-12-06 22:06:05,998 INFO [thumbnailer-1] thumbnail created photo=133422823 format=jpg sizes=256,1024 ms=30
+2021-12-06 22:06:16,645 INFO [thumbnailer-1] thumbnail created photo=133422824 format=jpg sizes=256,1024 ms=13
+2021-12-06 22:09:30,003 INFO [thumbnailer-2] thumbnail created photo=133422825 format=jpg sizes=256,1024 ms=21
+2021-12-06 22:10:12,407 INFO [thumbnailer-2] thumbnail created photo=133422826 format=heic sizes=256,1024 ms=53
+2021-12-06 22:10:15,632 INFO [thumbnailer-1] thumbnail created photo=133422827 format=jpg sizes=256,1024 ms=20
+2021-12-06 22:10:37,962 INFO [thumbnailer-2] thumbnail created photo=133422828 format=jpg sizes=256,1024 ms=46
+2021-12-06 22:12:35,508 INFO [thumbnailer-1] thumbnail created photo=133422829 format=jpg sizes=256,1024 ms=31
+2021-12-06 22:12:43,557 INFO [thumbnailer-2] thumbnail created photo=133422830 format=heic sizes=256,1024 ms=79
+2021-12-06 22:13:29,409 INFO [thumbnailer-2] thumbnail created photo=133422831 format=jpg sizes=256,1024 ms=45
+2021-12-06 22:15:09,623 INFO [thumbnailer-1] thumbnail created photo=133422832 format=heic sizes=256,1024 ms=56
+2021-12-06 22:15:33,801 INFO [thumbnailer-1] thumbnail created photo=133422833 format=png sizes=256,1024 ms=40
+2021-12-06 22:16:25,172 INFO [thumbnailer-1] thumbnail created photo=133422834 format=heic sizes=256,1024 ms=99
+2021-12-06 22:43:24,320 INFO [thumbnailer-2] thumbnail created photo=133422835 format=jpg sizes=256,1024 ms=26
+2021-12-06 22:44:51,493 INFO [thumbnailer-1] thumbnail created photo=133422836 format=jpg sizes=256,1024 ms=26
+2021-12-06 22:47:47,168 INFO [thumbnailer-1] thumbnail created photo=133422837 format=jpg sizes=256,1024 ms=47
+2021-12-06 22:49:42,879 INFO [thumbnailer-2] thumbnail created photo=133422838 format=jpg sizes=256,1024 ms=36
+2021-12-06 22:50:26,027 INFO [thumbnailer-1] thumbnail created photo=133422839 format=jpg sizes=256,1024 ms=37
+2021-12-06 22:51:05,366 INFO [thumbnailer-2] thumbnail created photo=133422840 format=jpg sizes=256,1024 ms=61
+2021-12-06 23:19:56,973 INFO [thumbnailer-1] thumbnail created photo=133422841 format=heic sizes=256,1024 ms=62
+2021-12-06 23:22:49,989 INFO [thumbnailer-2] thumbnail created photo=133422842 format=heic sizes=256,1024 ms=64
+2021-12-06 23:24:24,511 INFO [thumbnailer-1] thumbnail created photo=133422843 format=heic sizes=256,1024 ms=37
+2021-12-06 23:25:35,093 INFO [thumbnailer-1] thumbnail created photo=133422844 format=jpg sizes=256,1024 ms=25
+2021-12-06 23:26:19,474 INFO [thumbnailer-2] thumbnail created photo=133422845 format=jpg sizes=256,1024 ms=47
+2021-12-06 23:27:01,536 INFO [thumbnailer-2] thumbnail created photo=133422846 format=jpg sizes=256,1024 ms=24
+2021-12-06 23:27:49,799 INFO [thumbnailer-1] thumbnail created photo=133422847 format=jpg sizes=256,1024 ms=35
+2021-12-06 23:28:06,185 INFO [thumbnailer-1] thumbnail created photo=133422848 format=jpg sizes=256,1024 ms=21
+2021-12-06 23:28:59,939 INFO [thumbnailer-2] thumbnail created photo=133422849 format=jpg sizes=256,1024 ms=17
+2021-12-06 23:34:22,769 INFO [thumbnailer-1] thumbnail created photo=133422850 format=png sizes=256,1024 ms=29
+2021-12-06 23:36:47,171 INFO [thumbnailer-2] thumbnail created photo=133422851 format=jpg sizes=256,1024 ms=33
+2021-12-06 23:38:33,505 INFO [thumbnailer-2] thumbnail created photo=133422852 format=jpg sizes=256,1024 ms=29
+2021-12-06 23:43:10,242 INFO [thumbnailer-2] thumbnail created photo=133422853 format=jpg sizes=256,1024 ms=28
+2021-12-06 23:50:19,428 INFO [thumbnailer-1] thumbnail created photo=133422854 format=jpg sizes=256,1024 ms=33
+2021-12-06 23:50:30,121 INFO [thumbnailer-1] thumbnail created photo=133422855 format=jpg sizes=256,1024 ms=53
+2021-12-06 23:50:42,567 INFO [thumbnailer-1] thumbnail created photo=133422856 format=jpg sizes=256,1024 ms=39
+2021-12-06 23:51:37,039 INFO [thumbnailer-2] thumbnail created photo=133422857 format=jpg sizes=256,1024 ms=44
+2021-12-06 23:52:13,440 INFO [thumbnailer-2] thumbnail created photo=133422858 format=jpg sizes=256,1024 ms=38
+2021-12-06 23:53:06,063 INFO [thumbnailer-1] thumbnail created photo=133422859 format=jpg sizes=256,1024 ms=19
+2021-12-06 23:53:38,595 INFO [thumbnailer-1] thumbnail created photo=133422860 format=jpg sizes=256,1024 ms=57
+2021-12-06 23:54:47,002 INFO [thumbnailer-2] thumbnail created photo=133422861 format=jpg sizes=256,1024 ms=27
+2021-12-06 23:55:22,856 INFO [thumbnailer-2] thumbnail created photo=133422862 format=jpg sizes=256,1024 ms=39
+2021-12-07 00:06:21,356 INFO [thumbnailer-2] thumbnail created photo=133422863 format=jpg sizes=256,1024 ms=23
+2021-12-07 00:13:05,956 INFO [thumbnailer-1] thumbnail created photo=133422864 format=jpg sizes=256,1024 ms=39
+2021-12-07 00:14:01,345 INFO [thumbnailer-1] thumbnail created photo=133422865 format=jpg sizes=256,1024 ms=32
+2021-12-07 00:14:52,160 INFO [thumbnailer-1] thumbnail created photo=133422866 format=jpg sizes=256,1024 ms=26
+2021-12-07 00:56:59,369 INFO [thumbnailer-1] thumbnail created photo=133422867 format=jpg sizes=256,1024 ms=63
+2021-12-07 00:57:21,399 INFO [thumbnailer-2] thumbnail created photo=133422868 format=jpg sizes=256,1024 ms=28
+2021-12-07 00:57:38,708 INFO [thumbnailer-2] thumbnail created photo=133422870 format=jpg sizes=256,1024 ms=29
+2021-12-07 00:57:38,753 INFO [thumbnailer-1] thumbnail created photo=133422869 format=jpg sizes=256,1024 ms=23
+2021-12-07 00:57:43,421 INFO [thumbnailer-2] thumbnail created photo=133422871 format=jpg sizes=256,1024 ms=39
+2021-12-07 00:57:56,254 INFO [thumbnailer-1] thumbnail created photo=133422872 format=jpg sizes=256,1024 ms=22
+2021-12-07 00:59:10,705 INFO [thumbnailer-1] thumbnail created photo=133422873 format=jpg sizes=256,1024 ms=57
+2021-12-07 00:59:25,216 INFO [thumbnailer-1] thumbnail created photo=133422874 format=jpg sizes=256,1024 ms=55
+2021-12-07 01:00:30,332 INFO [thumbnailer-2] thumbnail created photo=133422875 format=jpg sizes=256,1024 ms=30
+2021-12-07 01:01:09,178 INFO [thumbnailer-2] thumbnail created photo=133422876 format=jpg sizes=256,1024 ms=36
+2021-12-07 01:01:34,202 INFO [thumbnailer-2] thumbnail created photo=133422877 format=jpg sizes=256,1024 ms=29
+2021-12-07 01:01:40,177 INFO [thumbnailer-2] thumbnail created photo=133422878 format=jpg sizes=256,1024 ms=47
+2021-12-07 01:03:26,337 INFO [thumbnailer-2] thumbnail created photo=133422879 format=jpg sizes=256,1024 ms=25
+2021-12-07 01:04:29,990 INFO [thumbnailer-2] thumbnail created photo=133422880 format=jpg sizes=256,1024 ms=18
+2021-12-07 01:04:54,891 INFO [thumbnailer-1] thumbnail created photo=133422881 format=jpg sizes=256,1024 ms=36
+2021-12-07 01:05:39,654 INFO [thumbnailer-2] thumbnail created photo=133422882 format=jpg sizes=256,1024 ms=30
+2021-12-07 01:06:25,401 INFO [thumbnailer-2] thumbnail created photo=133422883 format=png sizes=256,1024 ms=38
+2021-12-07 01:10:56,157 INFO [thumbnailer-2] thumbnail created photo=133422884 format=jpg sizes=256,1024 ms=32
+2021-12-07 01:13:28,695 INFO [thumbnailer-1] thumbnail created photo=133422885 format=heic sizes=256,1024 ms=90
+2021-12-07 01:15:55,826 INFO [thumbnailer-1] thumbnail created photo=133422886 format=heic sizes=256,1024 ms=78
+2021-12-07 01:28:40,725 INFO [thumbnailer-2] thumbnail created photo=133422887 format=heic sizes=256,1024 ms=33
+2021-12-07 01:32:36,450 INFO [thumbnailer-1] thumbnail created photo=133422888 format=heic sizes=256,1024 ms=60
+2021-12-07 01:33:00,153 INFO [thumbnailer-2] thumbnail created photo=133422889 format=heic sizes=256,1024 ms=35
+2021-12-07 01:47:32,872 INFO [thumbnailer-2] thumbnail created photo=133422890 format=heic sizes=256,1024 ms=60
+2021-12-07 02:02:52,691 INFO [thumbnailer-1] thumbnail created photo=133422891 format=jpg sizes=256,1024 ms=54
+2021-12-07 02:09:21,167 INFO [thumbnailer-1] thumbnail created photo=133422892 format=heic sizes=256,1024 ms=59
+2021-12-07 02:14:39,632 INFO [thumbnailer-1] thumbnail created photo=133422893 format=heic sizes=256,1024 ms=36
+2021-12-07 02:15:04,690 INFO [thumbnailer-2] thumbnail created photo=133422894 format=heic sizes=256,1024 ms=104
+2021-12-07 02:24:32,610 INFO [thumbnailer-1] thumbnail created photo=133422895 format=heic sizes=256,1024 ms=37
+2021-12-07 02:24:54,739 INFO [thumbnailer-2] thumbnail created photo=133422896 format=heic sizes=256,1024 ms=74
+2021-12-07 02:28:04,689 INFO [thumbnailer-1] thumbnail created photo=133422897 format=heic sizes=256,1024 ms=46
+2021-12-07 02:50:17,732 INFO [thumbnailer-1] thumbnail created photo=133422898 format=jpg sizes=256,1024 ms=21
+2021-12-07 02:50:28,065 INFO [thumbnailer-2] thumbnail created photo=133422899 format=jpg sizes=256,1024 ms=18
+2021-12-07 02:52:52,198 INFO [thumbnailer-2] thumbnail created photo=133422900 format=jpg sizes=256,1024 ms=61
+2021-12-07 02:53:55,113 INFO [thumbnailer-2] thumbnail created photo=133422901 format=jpg sizes=256,1024 ms=44
+2021-12-07 03:03:50,938 INFO [thumbnailer-2] thumbnail created photo=133422902 format=jpg sizes=256,1024 ms=28
+2021-12-07 03:07:10,488 INFO [thumbnailer-1] thumbnail created photo=133422903 format=heic sizes=256,1024 ms=47
+2021-12-07 03:08:31,415 INFO [thumbnailer-1] thumbnail created photo=133422904 format=jpg sizes=256,1024 ms=35
+2021-12-07 03:08:43,708 INFO [thumbnailer-1] thumbnail created photo=133422905 format=heic sizes=256,1024 ms=56
+2021-12-07 03:09:15,046 INFO [thumbnailer-1] thumbnail created photo=133422906 format=jpg sizes=256,1024 ms=17
+2021-12-07 03:10:10,664 INFO [thumbnailer-2] thumbnail created photo=133422907 format=heic sizes=256,1024 ms=94
+2021-12-07 03:13:52,495 INFO [thumbnailer-2] thumbnail created photo=133422908 format=jpg sizes=256,1024 ms=36
+2021-12-07 03:18:58,268 INFO [thumbnailer-1] thumbnail created photo=133422909 format=jpg sizes=256,1024 ms=22
+2021-12-07 03:48:25,783 INFO [thumbnailer-1] thumbnail created photo=133422910 format=jpg sizes=256,1024 ms=35
+2021-12-07 03:49:00,858 INFO [thumbnailer-2] thumbnail created photo=133422911 format=jpg sizes=256,1024 ms=59
+2021-12-07 03:51:57,644 INFO [thumbnailer-2] thumbnail created photo=133422912 format=jpg sizes=256,1024 ms=52
+2021-12-07 03:52:21,031 INFO [thumbnailer-1] thumbnail created photo=133422913 format=jpg sizes=256,1024 ms=34
+2021-12-07 03:54:56,734 INFO [thumbnailer-1] thumbnail created photo=133422914 format=jpg sizes=256,1024 ms=58
+2021-12-07 03:55:01,890 INFO [thumbnailer-1] thumbnail created photo=133422915 format=jpg sizes=256,1024 ms=29
+2021-12-07 05:27:24,089 INFO [thumbnailer-1] thumbnail created photo=133422916 format=heic sizes=256,1024 ms=86
+2021-12-07 05:27:38,487 INFO [thumbnailer-2] thumbnail created photo=133422917 format=heic sizes=256,1024 ms=50
+2021-12-07 05:31:12,322 INFO [thumbnailer-1] thumbnail created photo=133422918 format=heic sizes=256,1024 ms=67
+2021-12-07 06:37:40,804 INFO [thumbnailer-2] thumbnail created photo=133422919 format=jpg sizes=256,1024 ms=20
+2021-12-07 06:38:40,978 INFO [thumbnailer-1] thumbnail created photo=133422920 format=png sizes=256,1024 ms=22
+2021-12-07 06:41:03,429 INFO [thumbnailer-1] thumbnail created photo=133422921 format=jpg sizes=256,1024 ms=46
+2021-12-07 08:09:23,940 INFO [thumbnailer-1] thumbnail created photo=133422922 format=heic sizes=256,1024 ms=49
+2021-12-07 08:09:56,175 INFO [thumbnailer-2] thumbnail created photo=133422923 format=heic sizes=256,1024 ms=40
+2021-12-07 08:10:08,454 INFO [thumbnailer-2] thumbnail created photo=133422924 format=heic sizes=256,1024 ms=35
+2021-12-07 08:10:16,707 INFO [thumbnailer-2] thumbnail created photo=133422925 format=heic sizes=256,1024 ms=68
+2021-12-07 08:10:35,669 INFO [thumbnailer-2] thumbnail created photo=133422926 format=heic sizes=256,1024 ms=70
+2021-12-07 08:11:15,654 INFO [thumbnailer-1] thumbnail created photo=133422927 format=heic sizes=256,1024 ms=94
+2021-12-07 08:12:28,324 INFO [thumbnailer-2] thumbnail created photo=133422928 format=jpg sizes=256,1024 ms=34
+2021-12-07 08:12:28,622 INFO [thumbnailer-1] thumbnail created photo=133422929 format=heic sizes=256,1024 ms=99
+2021-12-07 08:12:52,259 INFO [thumbnailer-2] thumbnail created photo=133422930 format=heic sizes=256,1024 ms=66
+2021-12-07 08:12:55,404 INFO [thumbnailer-2] thumbnail created photo=133422931 format=heic sizes=256,1024 ms=28
+2021-12-07 08:13:04,567 INFO [thumbnailer-2] thumbnail created photo=133422932 format=heic sizes=256,1024 ms=105
+2021-12-07 08:13:17,512 INFO [thumbnailer-2] thumbnail created photo=133422933 format=jpg sizes=256,1024 ms=32
+2021-12-07 08:15:37,297 INFO [thumbnailer-2] thumbnail created photo=133422934 format=heic sizes=256,1024 ms=58
+2021-12-07 08:15:37,942 INFO [thumbnailer-2] thumbnail created photo=133422935 format=heic sizes=256,1024 ms=49
+2021-12-07 08:16:51,027 INFO [thumbnailer-1] thumbnail created photo=133422936 format=heic sizes=256,1024 ms=24
+2021-12-07 08:17:15,581 INFO [thumbnailer-2] thumbnail created photo=133422937 format=heic sizes=256,1024 ms=60
+2021-12-07 08:17:26,095 INFO [thumbnailer-1] thumbnail created photo=133422938 format=heic sizes=256,1024 ms=53
+2021-12-07 08:17:44,364 INFO [thumbnailer-1] thumbnail created photo=133422939 format=heic sizes=256,1024 ms=83
+2021-12-07 08:24:07,320 INFO [thumbnailer-1] thumbnail created photo=133422940 format=jpg sizes=256,1024 ms=30
+2021-12-07 08:42:56,579 INFO [thumbnailer-2] thumbnail created photo=133422941 format=heic sizes=256,1024 ms=52
+2021-12-07 08:44:28,468 INFO [thumbnailer-1] thumbnail created photo=133422942 format=heic sizes=256,1024 ms=42
+2021-12-07 08:47:42,919 INFO [thumbnailer-1] thumbnail created photo=133422943 format=heic sizes=256,1024 ms=82
+2021-12-07 08:49:29,016 INFO [thumbnailer-2] thumbnail created photo=133422944 format=jpg sizes=256,1024 ms=63
+2021-12-07 08:50:16,050 INFO [thumbnailer-1] thumbnail created photo=133422945 format=heic sizes=256,1024 ms=30
+2021-12-07 08:53:58,704 INFO [thumbnailer-2] thumbnail created photo=133422946 format=heic sizes=256,1024 ms=88
+2021-12-07 08:57:48,822 INFO [thumbnailer-1] thumbnail created photo=133422947 format=heic sizes=256,1024 ms=55
+2021-12-07 09:49:40,955 INFO [thumbnailer-2] thumbnail created photo=133422948 format=heic sizes=256,1024 ms=54
+2021-12-07 10:13:15,633 INFO [thumbnailer-1] thumbnail created photo=133422949 format=heic sizes=256,1024 ms=64
+2021-12-07 10:16:11,889 INFO [thumbnailer-2] thumbnail created photo=133422950 format=jpg sizes=256,1024 ms=19
+2021-12-07 15:30:58,039 INFO [thumbnailer-2] thumbnail created photo=133422951 format=jpg sizes=256,1024 ms=37
+2021-12-07 15:32:25,162 INFO [thumbnailer-1] thumbnail created photo=133422952 format=jpg sizes=256,1024 ms=20
+2021-12-07 15:33:10,578 INFO [thumbnailer-1] thumbnail created photo=133422953 format=jpg sizes=256,1024 ms=47
+2021-12-07 15:33:49,714 INFO [thumbnailer-1] thumbnail created photo=133422954 format=jpg sizes=256,1024 ms=41
+2021-12-07 15:35:49,395 INFO [thumbnailer-2] thumbnail created photo=133422955 format=jpg sizes=256,1024 ms=29
+2021-12-07 15:52:20,111 INFO [thumbnailer-1] starting thumbnailer 2.8.0 (pillow 8.4.0, pillow-heif not installed)
+2021-12-07 15:52:20,222 INFO [thumbnailer-2] starting thumbnailer 2.8.0 (pillow 8.4.0, pillow-heif not installed)
+2021-12-07 16:11:15,229 INFO [thumbnailer-1] thumbnail created photo=133422956 format=jpg sizes=256,1024 ms=76
+2021-12-07 16:11:33,849 INFO [thumbnailer-1] thumbnail created photo=133422957 format=jpg sizes=256,1024 ms=47
+2021-12-07 16:11:36,748 INFO [thumbnailer-2] thumbnail created photo=133422958 format=jpg sizes=256,1024 ms=36
+2021-12-07 16:13:42,892 INFO [thumbnailer-1] thumbnail created photo=133422959 format=jpg sizes=256,1024 ms=46
+2021-12-07 16:13:51,297 INFO [thumbnailer-1] thumbnail created photo=133422960 format=jpg sizes=256,1024 ms=45
+2021-12-07 16:18:42,446 INFO [thumbnailer-1] thumbnail created photo=133422961 format=jpg sizes=256,1024 ms=49
+2021-12-07 16:20:42,119 ERROR [thumbnailer-2] cannot decode image format=heic bytes=2202009: cannot identify image file <_io.BytesIO object at 0x7f3a775d>
+2021-12-07 16:21:12,106 ERROR [thumbnailer-2] cannot decode image format=heic bytes=2202009: cannot identify image file <_io.BytesIO object at 0x7f3a15c7>
+2021-12-07 16:22:05,661 ERROR [thumbnailer-2] cannot decode image format=heic bytes=3145728: cannot identify image file <_io.BytesIO object at 0x7f3ac781>
+2021-12-07 16:22:35,558 ERROR [thumbnailer-2] cannot decode image format=heic bytes=3145728: cannot identify image file <_io.BytesIO object at 0x7f3a407c>
+2021-12-07 16:22:42,087 ERROR [thumbnailer-1] cannot decode image format=heic bytes=2202009: cannot identify image file <_io.BytesIO object at 0x7f3ae628>
+2021-12-07 16:24:05,638 ERROR [thumbnailer-1] cannot decode image format=heic bytes=3145728: cannot identify image file <_io.BytesIO object at 0x7f3aab23>
+2021-12-07 16:30:41,958 ERROR [thumbnailer-2] cannot decode image format=heic bytes=2202009: cannot identify image file <_io.BytesIO object at 0x7f3a2561>
+2021-12-07 16:32:05,321 ERROR [thumbnailer-2] cannot decode image format=heic bytes=3145728: cannot identify image file <_io.BytesIO object at 0x7f3a8790>
+2021-12-07 16:42:26,107 ERROR [thumbnailer-1] cannot decode image format=heic bytes=3355443: cannot identify image file <_io.BytesIO object at 0x7f3aada8>
+2021-12-07 16:42:56,145 ERROR [thumbnailer-2] cannot decode image format=heic bytes=3355443: cannot identify image file <_io.BytesIO object at 0x7f3a9a4c>
+2021-12-07 16:44:08,485 INFO [thumbnailer-1] thumbnail created photo=133422962 format=jpg sizes=256,1024 ms=56
+2021-12-07 16:44:26,038 ERROR [thumbnailer-1] cannot decode image format=heic bytes=3355443: cannot identify image file <_io.BytesIO object at 0x7f3a24cf>
+2021-12-07 16:44:44,815 ERROR [thumbnailer-2] cannot decode image format=heic bytes=2097152: cannot identify image file <_io.BytesIO object at 0x7f3a5a87>
+2021-12-07 16:45:14,824 ERROR [thumbnailer-2] cannot decode image format=heic bytes=2097152: cannot identify image file <_io.BytesIO object at 0x7f3a1947>
+2021-12-07 16:46:44,649 ERROR [thumbnailer-2] cannot decode image format=heic bytes=2097152: cannot identify image file <_io.BytesIO object at 0x7f3a6fc5>
+2021-12-07 16:50:42,021 ERROR [thumbnailer-1] cannot decode image format=heic bytes=2202009: cannot identify image file <_io.BytesIO object at 0x7f3adaec>
+2021-12-07 16:52:05,450 ERROR [thumbnailer-1] cannot decode image format=heic bytes=3145728: cannot identify image file <_io.BytesIO object at 0x7f3ad00f>
+2021-12-07 16:52:26,228 ERROR [thumbnailer-1] cannot decode image format=heic bytes=3355443: cannot identify image file <_io.BytesIO object at 0x7f3af18e>
+2021-12-07 16:54:44,692 ERROR [thumbnailer-1] cannot decode image format=heic bytes=2097152: cannot identify image file <_io.BytesIO object at 0x7f3a76cf>
+2021-12-07 17:12:26,107 ERROR [thumbnailer-1] cannot decode image format=heic bytes=3355443: cannot identify image file <_io.BytesIO object at 0x7f3a5cb9>
+2021-12-07 17:14:44,746 ERROR [thumbnailer-1] cannot decode image format=heic bytes=2097152: cannot identify image file <_io.BytesIO object at 0x7f3a281f>
+2021-12-07 17:21:56,767 INFO [thumbnailer-1] thumbnail created photo=133422963 format=jpg sizes=256,1024 ms=69
+2021-12-07 17:25:43,990 INFO [thumbnailer-2] thumbnail created photo=133422964 format=jpg sizes=256,1024 ms=25
+2021-12-07 17:27:01,085 INFO [thumbnailer-1] thumbnail created photo=133422965 format=jpg sizes=256,1024 ms=21
+2021-12-07 17:27:09,674 INFO [thumbnailer-1] thumbnail created photo=133422966 format=jpg sizes=256,1024 ms=40
+2021-12-07 17:28:26,590 INFO [thumbnailer-1] thumbnail created photo=133422967 format=jpg sizes=256,1024 ms=42
+2021-12-07 17:28:40,266 INFO [thumbnailer-2] thumbnail created photo=133422968 format=jpg sizes=256,1024 ms=156
+2021-12-07 17:29:07,584 INFO [thumbnailer-1] thumbnail created photo=133422969 format=jpg sizes=256,1024 ms=17
+2021-12-07 17:30:53,742 INFO [thumbnailer-1] thumbnail created photo=133422970 format=jpg sizes=256,1024 ms=34
+2021-12-07 17:40:11,049 ERROR [thumbnailer-1] cannot decode image format=heic bytes=1468006: cannot identify image file <_io.BytesIO object at 0x7f3a89b1>
+2021-12-07 17:40:41,177 ERROR [thumbnailer-2] cannot decode image format=heic bytes=1468006: cannot identify image file <_io.BytesIO object at 0x7f3a6c65>
+2021-12-07 17:42:10,963 ERROR [thumbnailer-1] cannot decode image format=heic bytes=1468006: cannot identify image file <_io.BytesIO object at 0x7f3a2c02>
+2021-12-07 17:42:16,151 ERROR [thumbnailer-2] cannot decode image format=heic bytes=3040870: cannot identify image file <_io.BytesIO object at 0x7f3a8a79>
+2021-12-07 17:42:34,682 ERROR [thumbnailer-2] cannot decode image format=heic bytes=3774873: cannot identify image file <_io.BytesIO object at 0x7f3a663c>
+2021-12-07 17:42:46,376 ERROR [thumbnailer-1] cannot decode image format=heic bytes=3040870: cannot identify image file <_io.BytesIO object at 0x7f3a67c1>
+2021-12-07 17:43:04,503 ERROR [thumbnailer-2] cannot decode image format=heic bytes=3774873: cannot identify image file <_io.BytesIO object at 0x7f3a76b8>
+2021-12-07 17:43:23,774 INFO [thumbnailer-1] thumbnail created photo=133422971 format=jpg sizes=256,1024 ms=60
+2021-12-07 17:44:16,403 ERROR [thumbnailer-1] cannot decode image format=heic bytes=3040870: cannot identify image file <_io.BytesIO object at 0x7f3afdb3>
+2021-12-07 17:44:34,511 ERROR [thumbnailer-2] cannot decode image format=heic bytes=3774873: cannot identify image file <_io.BytesIO object at 0x7f3aa0d9>
+2021-12-07 17:46:30,438 ERROR [thumbnailer-2] cannot decode image format=heic bytes=1363148: cannot identify image file <_io.BytesIO object at 0x7f3a7567>
+2021-12-07 17:46:59,853 ERROR [thumbnailer-1] cannot decode image format=heic bytes=2516582: cannot identify image file <_io.BytesIO object at 0x7f3a7698>
+2021-12-07 17:47:00,683 ERROR [thumbnailer-1] cannot decode image format=heic bytes=1363148: cannot identify image file <_io.BytesIO object at 0x7f3aceb4>
+2021-12-07 17:47:30,039 ERROR [thumbnailer-2] cannot decode image format=heic bytes=2516582: cannot identify image file <_io.BytesIO object at 0x7f3a7046>
+2021-12-07 17:48:30,389 ERROR [thumbnailer-1] cannot decode image format=heic bytes=1363148: cannot identify image file <_io.BytesIO object at 0x7f3a2807>
+2021-12-07 17:48:59,951 ERROR [thumbnailer-2] cannot decode image format=heic bytes=2516582: cannot identify image file <_io.BytesIO object at 0x7f3a4f7c>
+2021-12-07 17:49:26,945 ERROR [thumbnailer-1] cannot decode image format=heic bytes=1782579: cannot identify image file <_io.BytesIO object at 0x7f3ad16f>
+2021-12-07 17:49:57,036 ERROR [thumbnailer-2] cannot decode image format=heic bytes=1782579: cannot identify image file <_io.BytesIO object at 0x7f3ab561>
+2021-12-07 17:50:11,256 ERROR [thumbnailer-2] cannot decode image format=heic bytes=1468006: cannot identify image file <_io.BytesIO object at 0x7f3aaebb>
+2021-12-07 17:50:19,623 INFO [thumbnailer-1] thumbnail created photo=133422972 format=jpg sizes=256,1024 ms=45
+2021-12-07 17:50:21,875 ERROR [thumbnailer-1] cannot decode image format=heic bytes=2097152: cannot identify image file <_io.BytesIO object at 0x7f3af5e8>
+2021-12-07 17:50:31,661 ERROR [thumbnailer-2] cannot decode image format=heic bytes=2936012: cannot identify image file <_io.BytesIO object at 0x7f3a75f2>
+2021-12-07 17:50:51,536 ERROR [thumbnailer-1] cannot decode image format=heic bytes=2097152: cannot identify image file <_io.BytesIO object at 0x7f3a415a>
+2021-12-07 17:51:01,786 ERROR [thumbnailer-1] cannot decode image format=heic bytes=2936012: cannot identify image file <_io.BytesIO object at 0x7f3a9b39>
+2021-12-07 17:51:27,032 ERROR [thumbnailer-1] cannot decode image format=heic bytes=1782579: cannot identify image file <_io.BytesIO object at 0x7f3ac5ad>
+2021-12-07 17:52:16,335 ERROR [thumbnailer-1] cannot decode image format=heic bytes=3040870: cannot identify image file <_io.BytesIO object at 0x7f3af284>
+2021-12-07 17:52:21,721 ERROR [thumbnailer-2] cannot decode image format=heic bytes=2097152: cannot identify image file <_io.BytesIO object at 0x7f3a8463>
+2021-12-07 17:52:31,831 ERROR [thumbnailer-1] cannot decode image format=heic bytes=2936012: cannot identify image file <_io.BytesIO object at 0x7f3ab0c1>
+2021-12-07 17:52:34,669 ERROR [thumbnailer-1] cannot decode image format=heic bytes=3774873: cannot identify image file <_io.BytesIO object at 0x7f3afbeb>
+2021-12-07 17:56:30,538 ERROR [thumbnailer-2] cannot decode image format=heic bytes=1363148: cannot identify image file <_io.BytesIO object at 0x7f3a4476>
+2021-12-07 17:57:00,172 ERROR [thumbnailer-1] cannot decode image format=heic bytes=2516582: cannot identify image file <_io.BytesIO object at 0x7f3ad711>
+2021-12-07 17:59:26,924 ERROR [thumbnailer-1] cannot decode image format=heic bytes=1782579: cannot identify image file <_io.BytesIO object at 0x7f3a98a4>
+2021-12-07 18:00:21,632 ERROR [thumbnailer-1] cannot decode image format=heic bytes=2097152: cannot identify image file <_io.BytesIO object at 0x7f3a7dad>
+2021-12-07 18:00:31,689 ERROR [thumbnailer-2] cannot decode image format=heic bytes=2936012: cannot identify image file <_io.BytesIO object at 0x7f3a8713>
+2021-12-07 18:10:11,232 ERROR [thumbnailer-1] cannot decode image format=heic bytes=1468006: cannot identify image file <_io.BytesIO object at 0x7f3ac0fc>
+2021-12-07 18:12:16,183 ERROR [thumbnailer-1] cannot decode image format=heic bytes=3040870: cannot identify image file <_io.BytesIO object at 0x7f3a1693>
+2021-12-07 18:12:34,609 ERROR [thumbnailer-1] cannot decode image format=heic bytes=3774873: cannot identify image file <_io.BytesIO object at 0x7f3aacad>
+2021-12-07 18:13:35,318 INFO [thumbnailer-1] thumbnail created photo=133422973 format=jpg sizes=256,1024 ms=45
+2021-12-07 18:16:30,430 ERROR [thumbnailer-2] cannot decode image format=heic bytes=1363148: cannot identify image file <_io.BytesIO object at 0x7f3afc6f>
+2021-12-07 18:16:59,961 ERROR [thumbnailer-1] cannot decode image format=heic bytes=2516582: cannot identify image file <_io.BytesIO object at 0x7f3a91b2>
+2021-12-07 18:19:26,946 ERROR [thumbnailer-2] cannot decode image format=heic bytes=1782579: cannot identify image file <_io.BytesIO object at 0x7f3a17d9>
+2021-12-07 18:20:21,614 ERROR [thumbnailer-1] cannot decode image format=heic bytes=2097152: cannot identify image file <_io.BytesIO object at 0x7f3ac43c>
+2021-12-07 18:20:31,622 ERROR [thumbnailer-1] cannot decode image format=heic bytes=2936012: cannot identify image file <_io.BytesIO object at 0x7f3a5dfa>
+2021-12-07 18:38:27,717 INFO [thumbnailer-1] thumbnail created photo=133422974 format=jpg sizes=256,1024 ms=26
+2021-12-07 18:43:12,893 ERROR [thumbnailer-2] cannot decode image format=heic bytes=1572864: cannot identify image file <_io.BytesIO object at 0x7f3a9ac5>
+2021-12-07 18:43:42,941 ERROR [thumbnailer-2] cannot decode image format=heic bytes=1572864: cannot identify image file <_io.BytesIO object at 0x7f3a515d>
+2021-12-07 18:44:17,794 ERROR [thumbnailer-2] cannot decode image format=heic bytes=1677721: cannot identify image file <_io.BytesIO object at 0x7f3a98a8>
+2021-12-07 18:44:47,659 ERROR [thumbnailer-2] cannot decode image format=heic bytes=1677721: cannot identify image file <_io.BytesIO object at 0x7f3a40d5>
+2021-12-07 18:45:13,137 ERROR [thumbnailer-1] cannot decode image format=heic bytes=1572864: cannot identify image file <_io.BytesIO object at 0x7f3a6ba8>
+2021-12-07 18:46:17,545 ERROR [thumbnailer-1] cannot decode image format=heic bytes=1677721: cannot identify image file <_io.BytesIO object at 0x7f3abe86>
+2021-12-07 18:46:19,900 ERROR [thumbnailer-2] cannot decode image format=heic bytes=3355443: cannot identify image file <_io.BytesIO object at 0x7f3abd0f>
+2021-12-07 18:46:49,655 ERROR [thumbnailer-2] cannot decode image format=heic bytes=3355443: cannot identify image file <_io.BytesIO object at 0x7f3a4c56>
+2021-12-07 18:48:19,974 ERROR [thumbnailer-1] cannot decode image format=heic bytes=3355443: cannot identify image file <_io.BytesIO object at 0x7f3a4169>
+2021-12-07 18:53:12,925 ERROR [thumbnailer-2] cannot decode image format=heic bytes=1572864: cannot identify image file <_io.BytesIO object at 0x7f3aa3a9>
+2021-12-07 18:54:17,839 ERROR [thumbnailer-1] cannot decode image format=heic bytes=1677721: cannot identify image file <_io.BytesIO object at 0x7f3a76fb>
+2021-12-07 18:56:19,869 ERROR [thumbnailer-1] cannot decode image format=heic bytes=3355443: cannot identify image file <_io.BytesIO object at 0x7f3a20eb>
+2021-12-07 19:07:00,050 INFO [thumbnailer-2] thumbnail created photo=133422975 format=jpg sizes=256,1024 ms=27
+2021-12-07 19:13:12,945 ERROR [thumbnailer-2] cannot decode image format=heic bytes=1572864: cannot identify image file <_io.BytesIO object at 0x7f3a98b2>
+2021-12-07 19:14:17,598 ERROR [thumbnailer-1] cannot decode image format=heic bytes=1677721: cannot identify image file <_io.BytesIO object at 0x7f3a3856>
+2021-12-07 19:16:19,653 ERROR [thumbnailer-1] cannot decode image format=heic bytes=3355443: cannot identify image file <_io.BytesIO object at 0x7f3abcf3>
+2021-12-07 20:44:02,403 INFO [thumbnailer-2] thumbnail created photo=133422976 format=jpg sizes=256,1024 ms=47
+2021-12-07 20:44:35,312 INFO [thumbnailer-1] thumbnail created photo=133422977 format=jpg sizes=256,1024 ms=68
+2021-12-07 20:47:53,254 INFO [thumbnailer-2] thumbnail created photo=133422978 format=jpg sizes=256,1024 ms=27
+2021-12-07 20:49:06,677 INFO [thumbnailer-2] thumbnail created photo=133422979 format=jpg sizes=256,1024 ms=51
+2021-12-07 20:50:24,004 INFO [thumbnailer-1] thumbnail created photo=133422980 format=jpg sizes=256,1024 ms=83
+2021-12-07 20:52:20,332 INFO [thumbnailer-1] thumbnail created photo=133422981 format=jpg sizes=256,1024 ms=40
+2021-12-07 20:58:10,881 INFO [thumbnailer-1] thumbnail created photo=133422982 format=jpg sizes=256,1024 ms=25
+2021-12-07 21:05:46,396 INFO [thumbnailer-2] thumbnail created photo=133422983 format=jpg sizes=256,1024 ms=40
+2021-12-07 21:09:32,521 INFO [thumbnailer-2] thumbnail created photo=133422984 format=jpg sizes=256,1024 ms=56
+2021-12-07 21:18:34,327 INFO [thumbnailer-1] thumbnail created photo=133422985 format=jpg sizes=256,1024 ms=38
+2021-12-07 21:18:38,191 INFO [thumbnailer-1] thumbnail created photo=133422986 format=jpg sizes=256,1024 ms=32
+2021-12-07 21:21:43,088 INFO [thumbnailer-2] thumbnail created photo=133422987 format=jpg sizes=256,1024 ms=30
+2021-12-07 21:37:45,081 INFO [thumbnailer-1] thumbnail created photo=133422988 format=jpg sizes=256,1024 ms=41
+2021-12-07 21:37:50,979 INFO [thumbnailer-2] thumbnail created photo=133422989 format=jpg sizes=256,1024 ms=29
+2021-12-07 21:53:59,272 INFO [thumbnailer-1] thumbnail created photo=133422990 format=jpg sizes=256,1024 ms=34
+2021-12-07 21:54:45,811 INFO [thumbnailer-2] thumbnail created photo=133422991 format=jpg sizes=256,1024 ms=37
+2021-12-07 21:58:44,636 INFO [thumbnailer-2] thumbnail created photo=133422992 format=jpg sizes=256,1024 ms=41
+2021-12-07 22:02:30,257 ERROR [thumbnailer-2] cannot decode image format=heic bytes=3460300: cannot identify image file <_io.BytesIO object at 0x7f3a14cd>
+2021-12-07 22:03:00,247 ERROR [thumbnailer-2] cannot decode image format=heic bytes=3460300: cannot identify image file <_io.BytesIO object at 0x7f3a5c9a>
+2021-12-07 22:04:30,372 ERROR [thumbnailer-2] cannot decode image format=heic bytes=3460300: cannot identify image file <_io.BytesIO object at 0x7f3acfc3>
+2021-12-07 22:12:30,398 ERROR [thumbnailer-2] cannot decode image format=heic bytes=3460300: cannot identify image file <_io.BytesIO object at 0x7f3adeff>
+2021-12-07 22:17:24,727 INFO [thumbnailer-1] thumbnail created photo=133422993 format=jpg sizes=256,1024 ms=25
+2021-12-07 22:18:00,604 INFO [thumbnailer-1] thumbnail created photo=133422994 format=jpg sizes=256,1024 ms=56
+2021-12-07 22:19:28,959 ERROR [thumbnailer-1] cannot decode image format=heic bytes=3250585: cannot identify image file <_io.BytesIO object at 0x7f3aa281>
+2021-12-07 22:19:39,118 INFO [thumbnailer-2] thumbnail created photo=133422995 format=jpg sizes=256,1024 ms=26
+2021-12-07 22:19:54,993 INFO [thumbnailer-2] thumbnail created photo=133422996 format=jpg sizes=256,1024 ms=40
+2021-12-07 22:19:58,859 ERROR [thumbnailer-2] cannot decode image format=heic bytes=3250585: cannot identify image file <_io.BytesIO object at 0x7f3a9e42>
+2021-12-07 22:20:14,064 INFO [thumbnailer-1] thumbnail created photo=133422997 format=jpg sizes=256,1024 ms=30
+2021-12-07 22:20:16,258 INFO [thumbnailer-2] thumbnail created photo=133422998 format=jpg sizes=256,1024 ms=35
+2021-12-07 22:21:02,139 ERROR [thumbnailer-2] cannot decode image format=heic bytes=2097152: cannot identify image file <_io.BytesIO object at 0x7f3aa282>
+2021-12-07 22:21:28,748 ERROR [thumbnailer-2] cannot decode image format=heic bytes=3250585: cannot identify image file <_io.BytesIO object at 0x7f3ab4df>
+2021-12-07 22:21:32,316 ERROR [thumbnailer-2] cannot decode image format=heic bytes=2097152: cannot identify image file <_io.BytesIO object at 0x7f3ab2b1>
+2021-12-07 22:22:02,291 INFO [thumbnailer-1] thumbnail created photo=133422999 format=jpg sizes=256,1024 ms=44
+2021-12-07 22:22:22,892 INFO [thumbnailer-2] thumbnail created photo=133423000 format=jpg sizes=256,1024 ms=38
+2021-12-07 22:22:44,856 INFO [thumbnailer-1] thumbnail created photo=133423001 format=jpg sizes=256,1024 ms=16
+2021-12-07 22:23:02,136 ERROR [thumbnailer-2] cannot decode image format=heic bytes=2097152: cannot identify image file <_io.BytesIO object at 0x7f3aa4ec>
+2021-12-07 22:23:12,373 INFO [thumbnailer-2] thumbnail created photo=133423002 format=jpg sizes=256,1024 ms=32
+2021-12-07 22:23:47,502 INFO [thumbnailer-2] thumbnail created photo=133423003 format=jpg sizes=256,1024 ms=23
+2021-12-07 22:24:01,101 INFO [thumbnailer-2] thumbnail created photo=133423004 format=jpg sizes=256,1024 ms=44
+2021-12-07 22:24:02,973 INFO [thumbnailer-2] thumbnail created photo=133423005 format=jpg sizes=256,1024 ms=36
+2021-12-07 22:24:25,726 ERROR [thumbnailer-2] cannot decode image format=heic bytes=1992294: cannot identify image file <_io.BytesIO object at 0x7f3afa04>
+2021-12-07 22:24:55,588 ERROR [thumbnailer-2] cannot decode image format=heic bytes=1992294: cannot identify image file <_io.BytesIO object at 0x7f3a26ab>
+2021-12-07 22:25:38,885 INFO [thumbnailer-2] thumbnail created photo=133423006 format=jpg sizes=256,1024 ms=19
+2021-12-07 22:26:25,863 ERROR [thumbnailer-2] cannot decode image format=heic bytes=1992294: cannot identify image file <_io.BytesIO object at 0x7f3ab53d>
+2021-12-07 22:26:47,230 ERROR [thumbnailer-2] cannot decode image format=heic bytes=2306867: cannot identify image file <_io.BytesIO object at 0x7f3ae50a>
+2021-12-07 22:27:17,190 ERROR [thumbnailer-2] cannot decode image format=heic bytes=2306867: cannot identify image file <_io.BytesIO object at 0x7f3a8d4a>
+2021-12-07 22:27:26,895 INFO [thumbnailer-2] thumbnail created photo=133423007 format=jpg sizes=256,1024 ms=12
+2021-12-07 22:27:47,395 ERROR [thumbnailer-2] cannot decode image format=heic bytes=1887436: cannot identify image file <_io.BytesIO object at 0x7f3aedd5>
+2021-12-07 22:28:03,882 ERROR [thumbnailer-1] cannot decode image format=heic bytes=1992294: cannot identify image file <_io.BytesIO object at 0x7f3a30be>
+2021-12-07 22:28:17,359 ERROR [thumbnailer-2] cannot decode image format=heic bytes=1048576: cannot identify image file <_io.BytesIO object at 0x7f3af26b>
+2021-12-07 22:28:17,448 ERROR [thumbnailer-1] cannot decode image format=heic bytes=1887436: cannot identify image file <_io.BytesIO object at 0x7f3a959b>
+2021-12-07 22:28:33,700 ERROR [thumbnailer-1] cannot decode image format=heic bytes=1992294: cannot identify image file <_io.BytesIO object at 0x7f3ad649>
+2021-12-07 22:28:40,904 INFO [thumbnailer-1] thumbnail created photo=133423008 format=jpg sizes=256,1024 ms=48
+2021-12-07 22:28:47,301 ERROR [thumbnailer-2] cannot decode image format=heic bytes=2306867: cannot identify image file <_io.BytesIO object at 0x7f3a43ec>
+2021-12-07 22:28:47,583 ERROR [thumbnailer-2] cannot decode image format=heic bytes=1048576: cannot identify image file <_io.BytesIO object at 0x7f3a7d93>
+2021-12-07 22:29:28,812 ERROR [thumbnailer-2] cannot decode image format=heic bytes=3250585: cannot identify image file <_io.BytesIO object at 0x7f3a83d2>
+2021-12-07 22:29:39,595 INFO [thumbnailer-2] thumbnail created photo=133423009 format=jpg sizes=256,1024 ms=27
+2021-12-07 22:29:47,329 ERROR [thumbnailer-1] cannot decode image format=heic bytes=1887436: cannot identify image file <_io.BytesIO object at 0x7f3a9ffc>
+2021-12-07 22:30:03,858 ERROR [thumbnailer-1] cannot decode image format=heic bytes=1992294: cannot identify image file <_io.BytesIO object at 0x7f3acbe0>
+2021-12-07 22:30:17,533 ERROR [thumbnailer-2] cannot decode image format=heic bytes=1048576: cannot identify image file <_io.BytesIO object at 0x7f3aa32f>
+2021-12-07 22:31:02,076 ERROR [thumbnailer-2] cannot decode image format=heic bytes=2097152: cannot identify image file <_io.BytesIO object at 0x7f3aed2e>
+2021-12-07 22:32:25,671 INFO [thumbnailer-2] thumbnail created photo=133423010 format=jpg sizes=256,1024 ms=34
+2021-12-07 22:32:30,165 ERROR [thumbnailer-2] cannot decode image format=heic bytes=3460300: cannot identify image file <_io.BytesIO object at 0x7f3a52f1>
+2021-12-07 22:33:15,864 INFO [thumbnailer-1] thumbnail created photo=133423011 format=jpg sizes=256,1024 ms=33
+2021-12-07 22:33:29,806 INFO [thumbnailer-1] thumbnail created photo=133423012 format=jpg sizes=256,1024 ms=34
+2021-12-07 22:34:25,532 ERROR [thumbnailer-2] cannot decode image format=heic bytes=1992294: cannot identify image file <_io.BytesIO object at 0x7f3aced8>
+2021-12-07 22:36:47,175 ERROR [thumbnailer-1] cannot decode image format=heic bytes=2306867: cannot identify image file <_io.BytesIO object at 0x7f3aa07a>
+2021-12-07 22:37:47,544 ERROR [thumbnailer-2] cannot decode image format=heic bytes=1887436: cannot identify image file <_io.BytesIO object at 0x7f3aa90c>
+2021-12-07 22:38:04,011 ERROR [thumbnailer-2] cannot decode image format=heic bytes=1992294: cannot identify image file <_io.BytesIO object at 0x7f3a9c80>
+2021-12-07 22:38:17,559 ERROR [thumbnailer-2] cannot decode image format=heic bytes=1048576: cannot identify image file <_io.BytesIO object at 0x7f3ad65c>
+2021-12-07 22:47:30,669 ERROR [thumbnailer-2] cannot decode image format=heic bytes=1677721: cannot identify image file <_io.BytesIO object at 0x7f3add29>
+2021-12-07 22:48:00,481 ERROR [thumbnailer-1] cannot decode image format=heic bytes=1677721: cannot identify image file <_io.BytesIO object at 0x7f3ac58b>
+2021-12-07 22:49:28,755 ERROR [thumbnailer-1] cannot decode image format=heic bytes=3250585: cannot identify image file <_io.BytesIO object at 0x7f3ad5dc>
+2021-12-07 22:49:30,646 ERROR [thumbnailer-1] cannot decode image format=heic bytes=1677721: cannot identify image file <_io.BytesIO object at 0x7f3a56c1>
+2021-12-07 22:51:02,209 ERROR [thumbnailer-2] cannot decode image format=heic bytes=2097152: cannot identify image file <_io.BytesIO object at 0x7f3aeed3>
+2021-12-07 22:54:25,691 ERROR [thumbnailer-1] cannot decode image format=heic bytes=1992294: cannot identify image file <_io.BytesIO object at 0x7f3a1a38>
+2021-12-07 22:55:13,760 ERROR [thumbnailer-2] cannot decode image format=heic bytes=2516582: cannot identify image file <_io.BytesIO object at 0x7f3aa8b1>
+2021-12-07 22:55:43,896 ERROR [thumbnailer-2] cannot decode image format=heic bytes=2516582: cannot identify image file <_io.BytesIO object at 0x7f3ac3b6>
+2021-12-07 22:55:51,216 ERROR [thumbnailer-1] cannot decode image format=heic bytes=2097152: cannot identify image file <_io.BytesIO object at 0x7f3ad595>
+2021-12-07 22:56:21,067 ERROR [thumbnailer-1] cannot decode image format=heic bytes=2097152: cannot identify image file <_io.BytesIO object at 0x7f3a3552>
+2021-12-07 22:56:47,112 ERROR [thumbnailer-2] cannot decode image format=heic bytes=2306867: cannot identify image file <_io.BytesIO object at 0x7f3ad7d0>
+2021-12-07 22:57:13,594 ERROR [thumbnailer-2] cannot decode image format=heic bytes=2516582: cannot identify image file <_io.BytesIO object at 0x7f3aa2a2>
+2021-12-07 22:57:30,538 ERROR [thumbnailer-1] cannot decode image format=heic bytes=1677721: cannot identify image file <_io.BytesIO object at 0x7f3a7ab3>
+2021-12-07 22:57:47,471 ERROR [thumbnailer-1] cannot decode image format=heic bytes=1887436: cannot identify image file <_io.BytesIO object at 0x7f3ad4de>
+2021-12-07 22:57:50,984 ERROR [thumbnailer-1] cannot decode image format=heic bytes=2097152: cannot identify image file <_io.BytesIO object at 0x7f3a6e85>
+2021-12-07 22:58:04,008 ERROR [thumbnailer-2] cannot decode image format=heic bytes=1992294: cannot identify image file <_io.BytesIO object at 0x7f3a3a17>
+2021-12-07 22:58:17,331 ERROR [thumbnailer-2] cannot decode image format=heic bytes=1048576: cannot identify image file <_io.BytesIO object at 0x7f3a7e12>
+2021-12-07 23:03:40,111 INFO [thumbnailer-1] starting thumbnailer 2.7.3 (pillow 8.4.0, pillow-heif 0.1.4)
+2021-12-07 23:03:40,222 INFO [thumbnailer-2] starting thumbnailer 2.7.3 (pillow 8.4.0, pillow-heif 0.1.4)
+2021-12-07 23:04:43,276 INFO [thumbnailer-1] thumbnail created photo=133423013 format=heic sizes=256,1024 ms=39
+2021-12-07 23:04:48,803 INFO [thumbnailer-2] thumbnail created photo=133423014 format=jpg sizes=256,1024 ms=42
+2021-12-07 23:05:00,314 INFO [thumbnailer-1] thumbnail created photo=133423015 format=heic sizes=256,1024 ms=63
+2021-12-07 23:05:31,251 INFO [thumbnailer-2] thumbnail created photo=133423016 format=heic sizes=256,1024 ms=89
+2021-12-07 23:06:18,146 INFO [thumbnailer-1] thumbnail created photo=133423017 format=heic sizes=256,1024 ms=109
+2021-12-07 23:06:51,370 INFO [thumbnailer-2] thumbnail created photo=133423018 format=heic sizes=256,1024 ms=42
+2021-12-07 23:07:02,385 INFO [thumbnailer-2] thumbnail created photo=133423019 format=heic sizes=256,1024 ms=63
+2021-12-07 23:07:30,315 INFO [thumbnailer-2] thumbnail created photo=133423020 format=heic sizes=256,1024 ms=42
+2021-12-07 23:07:56,348 INFO [thumbnailer-2] thumbnail created photo=133423021 format=heic sizes=256,1024 ms=31
+2021-12-07 23:08:40,290 INFO [thumbnailer-1] thumbnail created photo=133423022 format=heic sizes=256,1024 ms=144
+2021-12-07 23:09:05,286 INFO [thumbnailer-2] thumbnail created photo=133423023 format=heic sizes=256,1024 ms=68
+2021-12-07 23:10:06,392 INFO [thumbnailer-2] thumbnail created photo=133423024 format=heic sizes=256,1024 ms=60
+2021-12-07 23:10:20,150 INFO [thumbnailer-2] thumbnail created photo=133423025 format=heic sizes=256,1024 ms=64
+2021-12-07 23:10:20,338 INFO [thumbnailer-2] thumbnail created photo=133423026 format=heic sizes=256,1024 ms=41
+2021-12-07 23:10:33,336 INFO [thumbnailer-1] thumbnail created photo=133423027 format=heic sizes=256,1024 ms=38
+2021-12-07 23:11:10,540 INFO [thumbnailer-2] thumbnail created photo=133423028 format=heic sizes=256,1024 ms=44
+2021-12-07 23:12:05,381 INFO [thumbnailer-2] thumbnail created photo=133423029 format=heic sizes=256,1024 ms=74
+2021-12-07 23:12:11,103 INFO [thumbnailer-1] thumbnail created photo=133423030 format=heic sizes=256,1024 ms=63
+2021-12-07 23:12:38,323 INFO [thumbnailer-2] thumbnail created photo=133423031 format=heic sizes=256,1024 ms=59
+2021-12-07 23:12:43,226 INFO [thumbnailer-2] thumbnail created photo=133423032 format=heic sizes=256,1024 ms=38
+2021-12-07 23:13:14,267 INFO [thumbnailer-2] thumbnail created photo=133423033 format=heic sizes=256,1024 ms=79
+2021-12-07 23:13:41,222 INFO [thumbnailer-2] thumbnail created photo=133423034 format=heic sizes=256,1024 ms=79
+2021-12-07 23:14:04,144 INFO [thumbnailer-2] thumbnail created photo=133423035 format=heic sizes=256,1024 ms=59
+2021-12-07 23:14:05,701 INFO [thumbnailer-1] thumbnail created photo=133423036 format=heic sizes=256,1024 ms=44
+2021-12-07 23:14:21,278 INFO [thumbnailer-2] thumbnail created photo=133423037 format=heic sizes=256,1024 ms=56
+2021-12-07 23:14:33,168 INFO [thumbnailer-2] thumbnail created photo=133423038 format=heic sizes=256,1024 ms=108
+2021-12-07 23:15:24,378 INFO [thumbnailer-2] thumbnail created photo=133423039 format=heic sizes=256,1024 ms=45
+2021-12-07 23:16:35,253 INFO [thumbnailer-1] thumbnail created photo=133423040 format=heic sizes=256,1024 ms=78
+2021-12-07 23:16:45,378 INFO [thumbnailer-1] thumbnail created photo=133423041 format=heic sizes=256,1024 ms=74
+2021-12-07 23:17:03,126 INFO [thumbnailer-1] thumbnail created photo=133423042 format=heic sizes=256,1024 ms=89
+2021-12-07 23:18:27,323 INFO [thumbnailer-1] thumbnail created photo=133423043 format=heic sizes=256,1024 ms=91
+2021-12-07 23:21:42,799 INFO [thumbnailer-1] thumbnail created photo=133423044 format=jpg sizes=256,1024 ms=27
+2021-12-07 23:27:02,003 INFO [thumbnailer-1] thumbnail created photo=133423045 format=jpg sizes=256,1024 ms=43
+2021-12-07 23:28:17,797 INFO [thumbnailer-1] thumbnail created photo=133423046 format=jpg sizes=256,1024 ms=47
+2021-12-07 23:31:10,968 INFO [thumbnailer-1] thumbnail created photo=133423047 format=jpg sizes=256,1024 ms=45
+2021-12-07 23:43:33,874 INFO [thumbnailer-1] thumbnail created photo=133423048 format=jpg sizes=256,1024 ms=21
+2021-12-07 23:44:02,202 INFO [thumbnailer-2] thumbnail created photo=133423049 format=jpg sizes=256,1024 ms=45
+2021-12-08 00:12:17,593 INFO [thumbnailer-1] thumbnail created photo=133423050 format=jpg sizes=256,1024 ms=42
+2021-12-08 00:13:37,186 INFO [thumbnailer-2] thumbnail created photo=133423051 format=jpg sizes=256,1024 ms=34
+2021-12-08 00:14:17,300 INFO [thumbnailer-1] thumbnail created photo=133423052 format=jpg sizes=256,1024 ms=40
+2021-12-08 00:14:53,387 INFO [thumbnailer-2] thumbnail created photo=133423053 format=jpg sizes=256,1024 ms=32
+2021-12-08 00:17:54,797 INFO [thumbnailer-1] thumbnail created photo=133423054 format=jpg sizes=256,1024 ms=63
+2021-12-08 00:19:28,520 INFO [thumbnailer-2] thumbnail created photo=133423055 format=jpg sizes=256,1024 ms=47
+2021-12-08 00:31:10,997 INFO [thumbnailer-2] thumbnail created photo=133423056 format=jpg sizes=256,1024 ms=46
+2021-12-08 00:31:41,149 INFO [thumbnailer-2] thumbnail created photo=133423057 format=jpg sizes=256,1024 ms=25
+2021-12-08 00:34:02,336 INFO [thumbnailer-1] thumbnail created photo=133423058 format=jpg sizes=256,1024 ms=30
+2021-12-08 00:35:12,923 INFO [thumbnailer-2] thumbnail created photo=133423059 format=jpg sizes=256,1024 ms=42
+2021-12-08 00:42:14,171 INFO [thumbnailer-2] thumbnail created photo=133423060 format=heic sizes=256,1024 ms=66
+2021-12-08 01:14:56,793 INFO [thumbnailer-2] thumbnail created photo=133423061 format=jpg sizes=256,1024 ms=50
+2021-12-08 01:21:56,912 INFO [thumbnailer-2] thumbnail created photo=133423062 format=jpg sizes=256,1024 ms=12
+2021-12-08 01:22:17,364 INFO [thumbnailer-1] thumbnail created photo=133423063 format=jpg sizes=256,1024 ms=55
+2021-12-08 01:22:56,005 INFO [thumbnailer-1] thumbnail created photo=133423064 format=jpg sizes=256,1024 ms=27
+2021-12-08 01:24:53,766 INFO [thumbnailer-1] thumbnail created photo=133423065 format=jpg sizes=256,1024 ms=30
+2021-12-08 01:24:55,790 INFO [thumbnailer-1] thumbnail created photo=133423066 format=jpg sizes=256,1024 ms=26
+2021-12-08 01:24:56,697 INFO [thumbnailer-1] thumbnail created photo=133423067 format=jpg sizes=256,1024 ms=51
+2021-12-08 01:26:58,430 INFO [thumbnailer-2] thumbnail created photo=133423068 format=jpg sizes=256,1024 ms=16
+2021-12-08 01:35:14,859 INFO [thumbnailer-2] thumbnail created photo=133423069 format=jpg sizes=256,1024 ms=30
+2021-12-08 01:36:20,316 INFO [thumbnailer-2] thumbnail created photo=133423070 format=jpg sizes=256,1024 ms=55
+2021-12-08 01:43:34,735 INFO [thumbnailer-1] thumbnail created photo=133423071 format=jpg sizes=256,1024 ms=51
+2021-12-08 01:44:24,087 INFO [thumbnailer-1] thumbnail created photo=133423072 format=png sizes=256,1024 ms=54
+2021-12-08 01:48:42,626 INFO [thumbnailer-1] thumbnail created photo=133423073 format=jpg sizes=256,1024 ms=31
+2021-12-08 02:09:18,462 INFO [thumbnailer-1] thumbnail created photo=133423074 format=png sizes=256,1024 ms=52
+2021-12-08 02:19:00,309 INFO [thumbnailer-1] thumbnail created photo=133423075 format=jpg sizes=256,1024 ms=16
+2021-12-08 02:20:01,496 INFO [thumbnailer-2] thumbnail created photo=133423076 format=jpg sizes=256,1024 ms=36
+2021-12-08 03:13:51,328 INFO [thumbnailer-2] thumbnail created photo=133423077 format=heic sizes=256,1024 ms=69
+2021-12-08 03:14:35,191 INFO [thumbnailer-2] thumbnail created photo=133423078 format=heic sizes=256,1024 ms=55
+2021-12-08 03:15:43,090 INFO [thumbnailer-2] thumbnail created photo=133423079 format=jpg sizes=256,1024 ms=26
+2021-12-08 03:17:07,073 INFO [thumbnailer-1] thumbnail created photo=133423080 format=jpg sizes=256,1024 ms=32
+2021-12-08 03:18:48,053 INFO [thumbnailer-2] thumbnail created photo=133423081 format=heic sizes=256,1024 ms=63
+2021-12-08 03:19:09,043 INFO [thumbnailer-1] thumbnail created photo=133423082 format=heic sizes=256,1024 ms=79
+2021-12-08 03:20:08,673 INFO [thumbnailer-2] thumbnail created photo=133423083 format=heic sizes=256,1024 ms=95
+2021-12-08 03:20:20,179 INFO [thumbnailer-1] thumbnail created photo=133423084 format=heic sizes=256,1024 ms=43
+2021-12-08 03:20:39,338 INFO [thumbnailer-2] thumbnail created photo=133423085 format=jpg sizes=256,1024 ms=32
+2021-12-08 03:24:30,067 INFO [thumbnailer-2] thumbnail created photo=133423086 format=jpg sizes=256,1024 ms=42
+2021-12-08 03:24:37,291 INFO [thumbnailer-2] thumbnail created photo=133423087 format=jpg sizes=256,1024 ms=24
+2021-12-08 03:26:38,348 INFO [thumbnailer-1] thumbnail created photo=133423088 format=jpg sizes=256,1024 ms=35
+2021-12-08 04:10:36,871 INFO [thumbnailer-1] thumbnail created photo=133423089 format=jpg sizes=256,1024 ms=45
+2021-12-08 04:11:36,061 INFO [thumbnailer-1] thumbnail created photo=133423090 format=jpg sizes=256,1024 ms=51
+2021-12-08 04:37:22,598 INFO [thumbnailer-1] thumbnail created photo=133423091 format=jpg sizes=256,1024 ms=15
+2021-12-08 04:39:38,996 INFO [thumbnailer-2] thumbnail created photo=133423092 format=jpg sizes=256,1024 ms=24
+2021-12-08 04:41:04,330 INFO [thumbnailer-2] thumbnail created photo=133423093 format=jpg sizes=256,1024 ms=36
+2021-12-08 04:42:15,986 INFO [thumbnailer-2] thumbnail created photo=133423094 format=jpg sizes=256,1024 ms=30
+2021-12-08 04:42:17,180 INFO [thumbnailer-2] thumbnail created photo=133423095 format=jpg sizes=256,1024 ms=39
+2021-12-08 04:43:32,273 INFO [thumbnailer-2] thumbnail created photo=133423096 format=jpg sizes=256,1024 ms=37
+2021-12-08 04:43:57,380 INFO [thumbnailer-2] thumbnail created photo=133423097 format=jpg sizes=256,1024 ms=70
+2021-12-08 04:44:14,588 INFO [thumbnailer-2] thumbnail created photo=133423098 format=jpg sizes=256,1024 ms=20
+2021-12-08 05:57:39,865 INFO [thumbnailer-1] thumbnail created photo=133423099 format=jpg sizes=256,1024 ms=25
+2021-12-08 05:58:14,765 INFO [thumbnailer-1] thumbnail created photo=133423100 format=jpg sizes=256,1024 ms=50
+2021-12-08 05:58:21,686 INFO [thumbnailer-2] thumbnail created photo=133423101 format=jpg sizes=256,1024 ms=26
+2021-12-08 06:00:29,878 INFO [thumbnailer-1] thumbnail created photo=133423102 format=jpg sizes=256,1024 ms=17
+2021-12-08 06:03:46,185 INFO [thumbnailer-1] thumbnail created photo=133423103 format=jpg sizes=256,1024 ms=94
+2021-12-08 06:11:53,692 INFO [thumbnailer-2] thumbnail created photo=133423104 format=heic sizes=256,1024 ms=131
+2021-12-08 07:14:15,150 INFO [thumbnailer-1] thumbnail created photo=133423105 format=heic sizes=256,1024 ms=84
+2021-12-08 07:15:15,942 INFO [thumbnailer-1] thumbnail created photo=133423106 format=png sizes=256,1024 ms=29
+2021-12-08 07:16:06,615 INFO [thumbnailer-2] thumbnail created photo=133423107 format=heic sizes=256,1024 ms=55
+2021-12-08 07:17:32,771 INFO [thumbnailer-2] thumbnail created photo=133423108 format=jpg sizes=256,1024 ms=29
+2021-12-08 07:18:33,269 INFO [thumbnailer-2] thumbnail created photo=133423109 format=heic sizes=256,1024 ms=52
+2021-12-08 07:20:02,014 INFO [thumbnailer-1] thumbnail created photo=133423110 format=heic sizes=256,1024 ms=94
+2021-12-08 07:20:32,288 INFO [thumbnailer-2] thumbnail created photo=133423111 format=heic sizes=256,1024 ms=59
+2021-12-08 08:23:01,656 INFO [thumbnailer-2] thumbnail created photo=133423112 format=jpg sizes=256,1024 ms=26
+2021-12-08 08:23:40,259 INFO [thumbnailer-1] thumbnail created photo=133423113 format=heic sizes=256,1024 ms=42
+2021-12-08 08:24:13,603 INFO [thumbnailer-2] thumbnail created photo=133423114 format=heic sizes=256,1024 ms=56
+2021-12-08 08:24:15,883 INFO [thumbnailer-1] thumbnail created photo=133423115 format=heic sizes=256,1024 ms=82
+2021-12-08 08:26:50,286 INFO [thumbnailer-2] thumbnail created photo=133423116 format=png sizes=256,1024 ms=49
+2021-12-08 08:28:01,582 INFO [thumbnailer-2] thumbnail created photo=133423117 format=heic sizes=256,1024 ms=109
+2021-12-08 08:29:02,322 INFO [thumbnailer-2] thumbnail created photo=133423118 format=heic sizes=256,1024 ms=138
+2021-12-08 08:30:47,889 INFO [thumbnailer-1] thumbnail created photo=133423119 format=heic sizes=256,1024 ms=50
+2021-12-08 11:27:32,848 INFO [thumbnailer-2] thumbnail created photo=133423120 format=heic sizes=256,1024 ms=62
+2021-12-08 11:29:13,748 INFO [thumbnailer-1] thumbnail created photo=133423121 format=heic sizes=256,1024 ms=46
+2021-12-08 11:31:32,765 INFO [thumbnailer-2] thumbnail created photo=133423122 format=heic sizes=256,1024 ms=33
+2021-12-08 11:32:26,907 INFO [thumbnailer-2] thumbnail created photo=133423123 format=heic sizes=256,1024 ms=61
+2021-12-08 11:34:24,598 INFO [thumbnailer-2] thumbnail created photo=133423124 format=heic sizes=256,1024 ms=50
+2021-12-08 11:46:08,236 INFO [thumbnailer-1] thumbnail created photo=133423125 format=heic sizes=256,1024 ms=64
+2021-12-08 11:49:28,125 INFO [thumbnailer-1] thumbnail created photo=133423126 format=heic sizes=256,1024 ms=69
+2021-12-08 11:50:13,495 INFO [thumbnailer-1] thumbnail created photo=133423127 format=heic sizes=256,1024 ms=60
+2021-12-08 11:51:37,477 INFO [thumbnailer-1] thumbnail created photo=133423128 format=heic sizes=256,1024 ms=51
+2021-12-08 11:54:43,150 INFO [thumbnailer-1] thumbnail created photo=133423129 format=jpg sizes=256,1024 ms=59
+2021-12-08 12:09:25,358 INFO [thumbnailer-1] thumbnail created photo=133423130 format=jpg sizes=256,1024 ms=38
+2021-12-08 12:10:36,640 INFO [thumbnailer-2] thumbnail created photo=133423131 format=jpg sizes=256,1024 ms=32
+2021-12-08 12:12:15,904 INFO [thumbnailer-2] thumbnail created photo=133423132 format=jpg sizes=256,1024 ms=45
+2021-12-08 13:42:19,015 INFO [thumbnailer-1] thumbnail created photo=133423133 format=jpg sizes=256,1024 ms=40
+2021-12-08 14:17:44,981 INFO [thumbnailer-1] thumbnail created photo=133423134 format=heic sizes=256,1024 ms=49
+2021-12-08 16:05:55,708 INFO [thumbnailer-1] thumbnail created photo=133423135 format=jpg sizes=256,1024 ms=59
+2021-12-08 16:45:31,246 INFO [thumbnailer-1] thumbnail created photo=133423136 format=jpg sizes=256,1024 ms=45
+2021-12-08 16:47:53,610 INFO [thumbnailer-2] thumbnail created photo=133423137 format=jpg sizes=256,1024 ms=28
+2021-12-08 17:15:41,218 INFO [thumbnailer-2] thumbnail created photo=133423138 format=heic sizes=256,1024 ms=44
+2021-12-08 17:16:18,576 INFO [thumbnailer-2] thumbnail created photo=133423139 format=jpg sizes=256,1024 ms=46
+2021-12-08 17:18:27,904 INFO [thumbnailer-1] thumbnail created photo=133423140 format=jpg sizes=256,1024 ms=33
+2021-12-08 17:41:00,617 INFO [thumbnailer-2] thumbnail created photo=133423141 format=heic sizes=256,1024 ms=84
+2021-12-08 17:41:24,570 INFO [thumbnailer-1] thumbnail created photo=133423142 format=heic sizes=256,1024 ms=35
+2021-12-08 17:45:27,398 INFO [thumbnailer-2] thumbnail created photo=133423143 format=heic sizes=256,1024 ms=61
+2021-12-08 17:47:57,446 INFO [thumbnailer-2] thumbnail created photo=133423144 format=jpg sizes=256,1024 ms=47
+2021-12-08 17:48:02,483 INFO [thumbnailer-2] thumbnail created photo=133423145 format=jpg sizes=256,1024 ms=30
+2021-12-08 17:51:12,605 INFO [thumbnailer-2] thumbnail created photo=133423146 format=jpg sizes=256,1024 ms=64
+2021-12-08 17:53:06,656 INFO [thumbnailer-1] thumbnail created photo=133423147 format=jpg sizes=256,1024 ms=16
+2021-12-08 17:54:35,701 INFO [thumbnailer-2] thumbnail created photo=133423148 format=jpg sizes=256,1024 ms=41
+2021-12-08 17:55:38,460 INFO [thumbnailer-1] thumbnail created photo=133423149 format=jpg sizes=256,1024 ms=41
+2021-12-08 18:43:19,752 INFO [thumbnailer-1] thumbnail created photo=133423150 format=heic sizes=256,1024 ms=55
+2021-12-08 18:45:42,190 INFO [thumbnailer-2] thumbnail created photo=133423151 format=png sizes=256,1024 ms=34
+2021-12-08 19:12:17,686 INFO [thumbnailer-2] thumbnail created photo=133423152 format=jpg sizes=256,1024 ms=25
+2021-12-08 19:15:52,555 INFO [thumbnailer-2] thumbnail created photo=133423153 format=jpg sizes=256,1024 ms=43
+2021-12-08 19:15:53,877 INFO [thumbnailer-1] thumbnail created photo=133423154 format=jpg sizes=256,1024 ms=43
+2021-12-08 19:40:52,787 INFO [thumbnailer-1] thumbnail created photo=133423155 format=heic sizes=256,1024 ms=113
+2021-12-08 19:42:26,360 INFO [thumbnailer-2] thumbnail created photo=133423156 format=heic sizes=256,1024 ms=22
+2021-12-08 19:43:50,746 INFO [thumbnailer-2] thumbnail created photo=133423157 format=heic sizes=256,1024 ms=70
+2021-12-08 19:58:59,734 INFO [thumbnailer-2] thumbnail created photo=133423158 format=jpg sizes=256,1024 ms=48
+2021-12-08 20:10:36,764 INFO [thumbnailer-2] thumbnail created photo=133423159 format=jpg sizes=256,1024 ms=30
+2021-12-08 20:18:09,044 INFO [thumbnailer-1] thumbnail created photo=133423160 format=jpg sizes=256,1024 ms=42
+2021-12-08 20:30:07,663 INFO [thumbnailer-1] thumbnail created photo=133423161 format=jpg sizes=256,1024 ms=75
+2021-12-08 20:32:09,593 INFO [thumbnailer-1] thumbnail created photo=133423162 format=jpg sizes=256,1024 ms=16
+2021-12-08 20:33:04,569 INFO [thumbnailer-1] thumbnail created photo=133423163 format=jpg sizes=256,1024 ms=25
+2021-12-08 20:33:09,593 INFO [thumbnailer-2] thumbnail created photo=133423164 format=jpg sizes=256,1024 ms=16
+2021-12-08 20:33:18,992 INFO [thumbnailer-1] thumbnail created photo=133423165 format=jpg sizes=256,1024 ms=24
+2021-12-08 20:34:18,017 INFO [thumbnailer-2] thumbnail created photo=133423166 format=png sizes=256,1024 ms=39
+2021-12-08 20:34:40,072 INFO [thumbnailer-1] thumbnail created photo=133423167 format=png sizes=256,1024 ms=19
+2021-12-08 20:37:18,934 INFO [thumbnailer-1] thumbnail created photo=133423168 format=jpg sizes=256,1024 ms=44
+2021-12-08 20:38:19,928 INFO [thumbnailer-1] thumbnail created photo=133423169 format=jpg sizes=256,1024 ms=37
+2021-12-08 20:38:33,809 INFO [thumbnailer-2] thumbnail created photo=133423170 format=jpg sizes=256,1024 ms=27
+2021-12-08 20:39:33,657 INFO [thumbnailer-1] thumbnail created photo=133423171 format=jpg sizes=256,1024 ms=49
+2021-12-08 20:51:28,737 INFO [thumbnailer-1] thumbnail created photo=133423172 format=jpg sizes=256,1024 ms=26
+2021-12-08 21:25:27,977 INFO [thumbnailer-1] thumbnail created photo=133423173 format=jpg sizes=256,1024 ms=38
+2021-12-08 21:27:44,052 INFO [thumbnailer-1] thumbnail created photo=133423174 format=jpg sizes=256,1024 ms=19
+2021-12-08 21:28:05,269 INFO [thumbnailer-2] thumbnail created photo=133423175 format=jpg sizes=256,1024 ms=21
+2021-12-08 21:28:15,594 INFO [thumbnailer-2] thumbnail created photo=133423176 format=jpg sizes=256,1024 ms=48
+2021-12-08 21:35:02,432 INFO [thumbnailer-2] thumbnail created photo=133423177 format=heic sizes=256,1024 ms=34
+2021-12-08 21:43:02,844 INFO [thumbnailer-1] thumbnail created photo=133423178 format=jpg sizes=256,1024 ms=37
+2021-12-08 21:51:12,227 INFO [thumbnailer-2] thumbnail created photo=133423179 format=jpg sizes=256,1024 ms=14
+2021-12-08 21:51:23,363 INFO [thumbnailer-1] thumbnail created photo=133423180 format=jpg sizes=256,1024 ms=36
+2021-12-08 21:52:18,139 INFO [thumbnailer-1] thumbnail created photo=133423181 format=jpg sizes=256,1024 ms=33
+2021-12-08 21:52:35,465 INFO [thumbnailer-2] thumbnail created photo=133423182 format=jpg sizes=256,1024 ms=24
+2021-12-08 21:54:00,360 INFO [thumbnailer-2] thumbnail created photo=133423183 format=jpg sizes=256,1024 ms=22
+2021-12-08 21:55:52,178 INFO [thumbnailer-1] thumbnail created photo=133423184 format=jpg sizes=256,1024 ms=15
+2021-12-08 21:57:32,038 INFO [thumbnailer-2] thumbnail created photo=133423185 format=jpg sizes=256,1024 ms=44
+2021-12-08 21:59:25,992 INFO [thumbnailer-2] thumbnail created photo=133423186 format=jpg sizes=256,1024 ms=40
+2021-12-08 22:07:42,404 INFO [thumbnailer-2] thumbnail created photo=133423187 format=jpg sizes=256,1024 ms=41
+2021-12-08 22:11:55,176 INFO [thumbnailer-1] thumbnail created photo=133423188 format=jpg sizes=256,1024 ms=39
+2021-12-08 22:13:05,037 INFO [thumbnailer-1] thumbnail created photo=133423189 format=jpg sizes=256,1024 ms=35
+2021-12-08 22:14:53,282 INFO [thumbnailer-2] thumbnail created photo=133423190 format=jpg sizes=256,1024 ms=18
+2021-12-08 22:15:13,656 INFO [thumbnailer-1] thumbnail created photo=133423191 format=jpg sizes=256,1024 ms=30
+2021-12-08 22:17:46,914 INFO [thumbnailer-1] thumbnail created photo=133423192 format=jpg sizes=256,1024 ms=27
+2021-12-08 22:19:55,487 INFO [thumbnailer-2] thumbnail created photo=133423193 format=png sizes=256,1024 ms=32
+2021-12-08 22:22:35,694 INFO [thumbnailer-1] thumbnail created photo=133423194 format=jpg sizes=256,1024 ms=20
+2021-12-08 22:22:54,515 INFO [thumbnailer-1] thumbnail created photo=133423195 format=jpg sizes=256,1024 ms=38
+2021-12-08 22:23:17,404 INFO [thumbnailer-1] thumbnail created photo=133423196 format=jpg sizes=256,1024 ms=32
+2021-12-08 22:25:32,263 INFO [thumbnailer-1] thumbnail created photo=133423197 format=jpg sizes=256,1024 ms=19
+2021-12-08 22:59:40,560 INFO [thumbnailer-1] thumbnail created photo=133423198 format=jpg sizes=256,1024 ms=49
+2021-12-08 23:01:35,349 INFO [thumbnailer-2] thumbnail created photo=133423199 format=jpg sizes=256,1024 ms=27
+2021-12-08 23:01:54,652 INFO [thumbnailer-2] thumbnail created photo=133423200 format=heic sizes=256,1024 ms=72
+2021-12-08 23:03:42,985 INFO [thumbnailer-1] thumbnail created photo=133423201 format=heic sizes=256,1024 ms=79
+2021-12-08 23:06:55,542 INFO [thumbnailer-2] thumbnail created photo=133423202 format=jpg sizes=256,1024 ms=23
+2021-12-08 23:07:10,830 INFO [thumbnailer-1] thumbnail created photo=133423203 format=heic sizes=256,1024 ms=57
+2021-12-08 23:07:13,916 INFO [thumbnailer-1] thumbnail created photo=133423204 format=heic sizes=256,1024 ms=77
+2021-12-08 23:20:58,792 INFO [thumbnailer-1] thumbnail created photo=133423205 format=png sizes=256,1024 ms=40
+2021-12-08 23:36:54,363 INFO [thumbnailer-1] thumbnail created photo=133423206 format=jpg sizes=256,1024 ms=26

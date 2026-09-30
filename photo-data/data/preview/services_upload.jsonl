@@ -1,0 +1,300 @@
+{"ts": "2021-12-06T00:01:40.313Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 72436, "format": "heic", "bytes": 2097152, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T00:01:40.464Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422684, "path": "/st/x4ed/CmSPdycyxc.heic", "ms": 133}
+{"ts": "2021-12-06T00:02:13.333Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 72436, "format": "heic", "bytes": 1153433, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T00:02:13.486Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422685, "path": "/st/y938/3O6kniY67P.heic", "ms": 175}
+{"ts": "2021-12-06T00:04:34.795Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 54351, "format": "jpg", "bytes": 6081740, "client": "android/5.2.0"}
+{"ts": "2021-12-06T00:04:34.977Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422686, "path": "/st/uc8f/NlOHJXNiQY.jpg", "ms": 89}
+{"ts": "2021-12-06T00:04:34.977Z", "level": "WARNING", "service": "upload", "instance": "upload-3", "event": "quota_warning", "user_id": 54351, "photos": 5124, "quota": 5500}
+{"ts": "2021-12-06T00:05:22.672Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 10920, "format": "heic", "bytes": 4089446, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T00:05:22.823Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422687, "path": "/st/ud95/fAxcj1vNw9.heic", "ms": 133}
+{"ts": "2021-12-06T00:05:48.754Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 34285, "format": "jpg", "bytes": 4928307, "client": "android/5.2.0"}
+{"ts": "2021-12-06T00:05:48.997Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422688, "path": "/st/x5b0/yMVOItl1Hh.jpg", "ms": 54}
+{"ts": "2021-12-06T00:06:37.029Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 10920, "format": "heic", "bytes": 3145728, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T00:06:37.315Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422689, "path": "/st/xb2b/6oK5kOpCFy.heic", "ms": 99}
+{"ts": "2021-12-06T00:10:32.224Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 54351, "format": "jpg", "bytes": 8912896, "client": "android/5.2.0"}
+{"ts": "2021-12-06T00:10:32.578Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422690, "path": "/st/y8cb/J3MezNC42w.jpg", "ms": 75}
+{"ts": "2021-12-06T00:10:32.578Z", "level": "WARNING", "service": "upload", "instance": "upload-3", "event": "quota_warning", "user_id": 54351, "photos": 5124, "quota": 5500}
+{"ts": "2021-12-06T00:10:33.330Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 54351, "format": "jpg", "bytes": 4194304, "client": "android/5.2.0"}
+{"ts": "2021-12-06T00:10:33.526Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422691, "path": "/st/ub77/74hzQIxtt5.jpg", "ms": 55}
+{"ts": "2021-12-06T00:10:33.526Z", "level": "WARNING", "service": "upload", "instance": "upload-3", "event": "quota_warning", "user_id": 54351, "photos": 5124, "quota": 5500}
+{"ts": "2021-12-06T00:10:44.945Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 10920, "format": "heic", "bytes": 3040870, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T00:10:45.122Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422692, "path": "/st/u6d3/BdLxzPQCyq.heic", "ms": 50}
+{"ts": "2021-12-06T00:10:48.061Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 10920, "format": "heic", "bytes": 943718, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T00:10:48.376Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422693, "path": "/st/xcd2/ONG0TbnjpP.heic", "ms": 172}
+{"ts": "2021-12-06T00:11:12.403Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 54351, "format": "jpg", "bytes": 2831155, "client": "android/5.2.0"}
+{"ts": "2021-12-06T00:11:12.621Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422694, "path": "/st/x4d6/6ON9oFJ5jQ.jpg", "ms": 88}
+{"ts": "2021-12-06T00:11:12.621Z", "level": "WARNING", "service": "upload", "instance": "upload-1", "event": "quota_warning", "user_id": 54351, "photos": 5124, "quota": 5500}
+{"ts": "2021-12-06T00:11:13.589Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 54351, "format": "jpg", "bytes": 4508876, "client": "android/5.2.0"}
+{"ts": "2021-12-06T00:11:13.944Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422695, "path": "/st/u465/eixynYU6UN.jpg", "ms": 98}
+{"ts": "2021-12-06T00:11:13.944Z", "level": "WARNING", "service": "upload", "instance": "upload-2", "event": "quota_warning", "user_id": 54351, "photos": 5124, "quota": 5500}
+{"ts": "2021-12-06T00:11:15.897Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 54351, "format": "jpg", "bytes": 4404019, "client": "android/5.2.0"}
+{"ts": "2021-12-06T00:11:16.104Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422696, "path": "/st/z13b/7dDVhmoDc2.jpg", "ms": 114}
+{"ts": "2021-12-06T00:11:16.104Z", "level": "WARNING", "service": "upload", "instance": "upload-1", "event": "quota_warning", "user_id": 54351, "photos": 5124, "quota": 5500}
+{"ts": "2021-12-06T00:12:10.413Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 10920, "format": "jpg", "bytes": 13316915, "client": "web"}
+{"ts": "2021-12-06T00:12:10.677Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422697, "path": "/st/yde9/2kOwYM4JoR.jpg", "ms": 126}
+{"ts": "2021-12-06T00:14:05.210Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 10920, "format": "heic", "bytes": 2726297, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T00:14:05.550Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422698, "path": "/st/ye44/K0OYFkn8Y4.heic", "ms": 124}
+{"ts": "2021-12-06T00:14:07.080Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 10920, "format": "jpg", "bytes": 6606028, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T00:14:07.201Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422699, "path": "/st/zaf6/vxPNVDNq8e.jpg", "ms": 116}
+{"ts": "2021-12-06T00:28:14.555Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 89628, "format": "jpg", "bytes": 3879731, "client": "android/5.2.0"}
+{"ts": "2021-12-06T00:28:14.678Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422700, "path": "/st/u8d2/9XEcGPDsDt.jpg", "ms": 55}
+{"ts": "2021-12-06T00:34:46.411Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 89628, "format": "jpg", "bytes": 5347737, "client": "android/5.2.0"}
+{"ts": "2021-12-06T00:34:46.719Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422701, "path": "/st/ya38/P8maoxkHmy.jpg", "ms": 101}
+{"ts": "2021-12-06T00:35:22.854Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 89628, "format": "jpg", "bytes": 4508876, "client": "android/5.2.0"}
+{"ts": "2021-12-06T00:35:23.173Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422702, "path": "/st/u1d/g0hnZdMK52.jpg", "ms": 95}
+{"ts": "2021-12-06T00:35:53.087Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 89628, "format": "jpg", "bytes": 3040870, "client": "android/5.2.0"}
+{"ts": "2021-12-06T00:35:53.169Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422703, "path": "/st/u4eb/eM2qSpaYcM.jpg", "ms": 86}
+{"ts": "2021-12-06T00:37:51.433Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 54351, "format": "jpg", "bytes": 3774873, "client": "android/5.2.0"}
+{"ts": "2021-12-06T00:37:51.829Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422704, "path": "/st/z50b/QT6zayv4Nr.jpg", "ms": 104}
+{"ts": "2021-12-06T00:37:51.829Z", "level": "WARNING", "service": "upload", "instance": "upload-3", "event": "quota_warning", "user_id": 54351, "photos": 5124, "quota": 5500}
+{"ts": "2021-12-06T00:38:22.408Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 76523, "format": "heic", "bytes": 3984588, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T00:38:22.599Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422705, "path": "/st/xbc5/5I7F5FyhAZ.heic", "ms": 126}
+{"ts": "2021-12-06T00:41:13.960Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 76523, "format": "heic", "bytes": 4404019, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T00:41:14.187Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422706, "path": "/st/u6bd/BjgHti8Hog.heic", "ms": 80}
+{"ts": "2021-12-06T00:44:18.669Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 76523, "format": "heic", "bytes": 1992294, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T00:44:18.937Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422707, "path": "/st/ua91/k6GNkMt4q4.heic", "ms": 88}
+{"ts": "2021-12-06T00:45:01.424Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 76523, "format": "heic", "bytes": 2411724, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T00:45:01.464Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422708, "path": "/st/yd67/KcPk4eu8kr.heic", "ms": 80}
+{"ts": "2021-12-06T00:45:05.909Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 76523, "format": "heic", "bytes": 3774873, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T00:45:06.174Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422709, "path": "/st/xfef/IFH3E7Oh42.heic", "ms": 69}
+{"ts": "2021-12-06T00:45:56.846Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 54351, "format": "jpg", "bytes": 5872025, "client": "android/5.2.0"}
+{"ts": "2021-12-06T00:45:57.155Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422710, "path": "/st/u6ca/U0y10dGwGB.jpg", "ms": 147}
+{"ts": "2021-12-06T00:45:57.155Z", "level": "WARNING", "service": "upload", "instance": "upload-2", "event": "quota_warning", "user_id": 54351, "photos": 5124, "quota": 5500}
+{"ts": "2021-12-06T01:11:11.338Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 80069, "format": "jpg", "bytes": 3670016, "client": "android/5.2.0"}
+{"ts": "2021-12-06T01:11:11.706Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422711, "path": "/st/zb62/MLzKGClMsZ.jpg", "ms": 61}
+{"ts": "2021-12-06T01:13:00.906Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 80069, "format": "jpg", "bytes": 4718592, "client": "android/5.2.0"}
+{"ts": "2021-12-06T01:13:01.282Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422712, "path": "/st/u1e1/pKz0usvKOR.jpg", "ms": 49}
+{"ts": "2021-12-06T01:17:52.015Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 64457, "format": "heic", "bytes": 2097152, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T01:17:52.196Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422713, "path": "/st/ze2c/cYpN7pEqBp.heic", "ms": 97}
+{"ts": "2021-12-06T01:24:56.681Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 81064, "format": "jpg", "bytes": 2516582, "client": "android/5.2.0"}
+{"ts": "2021-12-06T01:24:56.991Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422714, "path": "/st/u63f/jnIBLZmdnA.jpg", "ms": 126}
+{"ts": "2021-12-06T01:27:47.022Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 81064, "format": "jpg", "bytes": 3565158, "client": "android/5.2.0"}
+{"ts": "2021-12-06T01:27:47.411Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422715, "path": "/st/x9b5/izESk4TcSk.jpg", "ms": 65}
+{"ts": "2021-12-06T01:31:41.070Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 81064, "format": "jpg", "bytes": 2621440, "client": "android/5.2.0"}
+{"ts": "2021-12-06T01:31:41.402Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422716, "path": "/st/zea2/cdLJOrBUtP.jpg", "ms": 78}
+{"ts": "2021-12-06T01:34:05.239Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 81064, "format": "jpg", "bytes": 5452595, "client": "android/5.2.0"}
+{"ts": "2021-12-06T01:34:05.521Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422717, "path": "/st/u2f/0DbZlcixqM.jpg", "ms": 53}
+{"ts": "2021-12-06T01:48:51.678Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 63901, "format": "heic", "bytes": 1992294, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T01:48:51.726Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422718, "path": "/st/uc4d/v9t5Wpi2eN.heic", "ms": 231}
+{"ts": "2021-12-06T01:50:17.693Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 54351, "format": "jpg", "bytes": 21390950, "client": "web"}
+{"ts": "2021-12-06T01:50:17.866Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422719, "path": "/st/u468/ceGRpLoUbs.jpg", "ms": 75}
+{"ts": "2021-12-06T01:50:17.866Z", "level": "WARNING", "service": "upload", "instance": "upload-3", "event": "quota_warning", "user_id": 54351, "photos": 5124, "quota": 5500}
+{"ts": "2021-12-06T01:51:23.454Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 63901, "format": "heic", "bytes": 1572864, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T01:51:23.664Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422720, "path": "/st/x4d2/NJl03EEvN4.heic", "ms": 159}
+{"ts": "2021-12-06T01:51:52.128Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 63901, "format": "heic", "bytes": 1258291, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T01:51:52.408Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422721, "path": "/st/x495/1vyAziAOMx.heic", "ms": 120}
+{"ts": "2021-12-06T01:51:57.665Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 63901, "format": "heic", "bytes": 1153433, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T01:51:58.023Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422722, "path": "/st/yc27/RUyDPxXCXH.heic", "ms": 94}
+{"ts": "2021-12-06T01:52:15.473Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 54351, "format": "jpg", "bytes": 3879731, "client": "android/5.2.0"}
+{"ts": "2021-12-06T01:52:15.620Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422723, "path": "/st/u57b/6aM3ZX6gAS.jpg", "ms": 124}
+{"ts": "2021-12-06T01:52:15.620Z", "level": "WARNING", "service": "upload", "instance": "upload-3", "event": "quota_warning", "user_id": 54351, "photos": 5124, "quota": 5500}
+{"ts": "2021-12-06T01:53:44.332Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 54351, "format": "png", "bytes": 1468006, "client": "android/5.2.0"}
+{"ts": "2021-12-06T01:53:44.401Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422724, "path": "/st/y268/FdrigfAfWP.png", "ms": 98}
+{"ts": "2021-12-06T01:53:44.401Z", "level": "WARNING", "service": "upload", "instance": "upload-3", "event": "quota_warning", "user_id": 54351, "photos": 5124, "quota": 5500}
+{"ts": "2021-12-06T02:11:56.941Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 94703, "format": "jpg", "bytes": 1992294, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T02:11:57.220Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422725, "path": "/st/u6b1/YzCYADzaK6.jpg", "ms": 102}
+{"ts": "2021-12-06T02:14:08.041Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 94703, "format": "heic", "bytes": 2097152, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T02:14:08.120Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422726, "path": "/st/y7e9/z7ETdbZ2eV.heic", "ms": 162}
+{"ts": "2021-12-06T02:15:51.712Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 94703, "format": "png", "bytes": 314572, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T02:15:51.916Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422727, "path": "/st/u31c/YzMc3Lx04l.png", "ms": 103}
+{"ts": "2021-12-06T02:16:23.893Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 94703, "format": "heic", "bytes": 1992294, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T02:16:24.195Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422728, "path": "/st/y335/xxlkESifIB.heic", "ms": 84}
+{"ts": "2021-12-06T03:53:33.115Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 23073, "format": "jpg", "bytes": 2516582, "client": "android/5.2.0"}
+{"ts": "2021-12-06T03:53:33.219Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422729, "path": "/st/uc53/UTcA0G3akc.jpg", "ms": 71}
+{"ts": "2021-12-06T03:55:07.071Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 74761, "format": "jpg", "bytes": 5033164, "client": "android/5.2.0"}
+{"ts": "2021-12-06T03:55:07.365Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422730, "path": "/st/x8a8/JIVEVrtOAd.jpg", "ms": 93}
+{"ts": "2021-12-06T03:57:27.571Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 23073, "format": "jpg", "bytes": 3565158, "client": "android/5.2.0"}
+{"ts": "2021-12-06T03:57:27.906Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422731, "path": "/st/z837/3EaJaE1Muu.jpg", "ms": 45}
+{"ts": "2021-12-06T03:57:45.784Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 35382, "format": "jpg", "bytes": 4928307, "client": "android/5.2.0"}
+{"ts": "2021-12-06T03:57:45.942Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422732, "path": "/st/yf91/3D6ptOlzRY.jpg", "ms": 111}
+{"ts": "2021-12-06T04:00:57.103Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 35382, "format": "jpg", "bytes": 5976883, "client": "android/5.2.0"}
+{"ts": "2021-12-06T04:00:57.268Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422733, "path": "/st/u418/NK0cu3odkY.jpg", "ms": 65}
+{"ts": "2021-12-06T04:04:01.835Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 35382, "format": "jpg", "bytes": 3879731, "client": "android/5.2.0"}
+{"ts": "2021-12-06T04:04:02.216Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422734, "path": "/st/u509/qWmkhYg2u8.jpg", "ms": 80}
+{"ts": "2021-12-06T04:05:21.773Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 35382, "format": "jpg", "bytes": 4194304, "client": "android/5.2.0"}
+{"ts": "2021-12-06T04:05:21.986Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422735, "path": "/st/uaf5/8y6Jsrluwn.jpg", "ms": 103}
+{"ts": "2021-12-06T05:23:52.822Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 74979, "format": "jpg", "bytes": 6186598, "client": "android/5.2.0"}
+{"ts": "2021-12-06T05:23:52.939Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422736, "path": "/st/u866/VMX4ZVOZ9M.jpg", "ms": 110}
+{"ts": "2021-12-06T05:23:58.832Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 77685, "format": "heic", "bytes": 5138022, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T05:23:59.183Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422737, "path": "/st/u361/CBS6o3zcRU.heic", "ms": 141}
+{"ts": "2021-12-06T05:25:14.571Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 77685, "format": "jpg", "bytes": 3355443, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T05:25:14.929Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422738, "path": "/st/x85e/tQCr9zX7yU.jpg", "ms": 90}
+{"ts": "2021-12-06T05:25:55.041Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 77685, "format": "heic", "bytes": 1677721, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T05:25:55.126Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422739, "path": "/st/z9ba/SBgOlc0xfk.heic", "ms": 97}
+{"ts": "2021-12-06T05:26:43.383Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 74979, "format": "jpg", "bytes": 5138022, "client": "android/5.2.0"}
+{"ts": "2021-12-06T05:26:43.775Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422740, "path": "/st/x308/z82UZ9xaEP.jpg", "ms": 109}
+{"ts": "2021-12-06T05:28:06.302Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 74979, "format": "jpg", "bytes": 6081740, "client": "android/5.2.0"}
+{"ts": "2021-12-06T05:28:06.681Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422741, "path": "/st/z97/f3c0nMWtXe.jpg", "ms": 118}
+{"ts": "2021-12-06T05:30:37.874Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 74979, "format": "jpg", "bytes": 2097152, "client": "android/5.2.0"}
+{"ts": "2021-12-06T05:30:37.945Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422742, "path": "/st/u208/5a7Fq1zRuB.jpg", "ms": 56}
+{"ts": "2021-12-06T05:31:08.375Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 74979, "format": "jpg", "bytes": 6920601, "client": "android/5.2.0"}
+{"ts": "2021-12-06T05:31:08.675Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422743, "path": "/st/u5e/SMhJHYKj4L.jpg", "ms": 91}
+{"ts": "2021-12-06T06:02:48.328Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 30682, "format": "jpg", "bytes": 4404019, "client": "android/5.2.0"}
+{"ts": "2021-12-06T06:02:48.399Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422744, "path": "/st/yca5/co9StEGrH9.jpg", "ms": 71}
+{"ts": "2021-12-06T06:05:25.010Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 30682, "format": "jpg", "bytes": 3879731, "client": "android/5.2.0"}
+{"ts": "2021-12-06T06:05:25.069Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422745, "path": "/st/u7fa/2Whgv2ofqX.jpg", "ms": 47}
+{"ts": "2021-12-06T06:19:23.339Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 95261, "format": "heic", "bytes": 3355443, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T06:19:23.449Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422746, "path": "/st/yf0a/43qrzdKpxR.heic", "ms": 81}
+{"ts": "2021-12-06T06:20:06.984Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 95261, "format": "heic", "bytes": 3145728, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T06:20:07.150Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422747, "path": "/st/y64f/j3UHYSu3nE.heic", "ms": 79}
+{"ts": "2021-12-06T06:21:43.411Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 95261, "format": "heic", "bytes": 1677721, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T06:21:43.500Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422748, "path": "/st/yc0/8LGS78ZH4n.heic", "ms": 147}
+{"ts": "2021-12-06T06:25:40.126Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 95261, "format": "heic", "bytes": 3565158, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T06:25:40.337Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422749, "path": "/st/u62e/7Yp1W4eVhW.heic", "ms": 79}
+{"ts": "2021-12-06T08:05:32.208Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 35382, "format": "jpg", "bytes": 3565158, "client": "android/5.2.0"}
+{"ts": "2021-12-06T08:05:32.244Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422750, "path": "/st/uc1f/hX8Q9CkhKv.jpg", "ms": 90}
+{"ts": "2021-12-06T08:06:13.677Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 35382, "format": "jpg", "bytes": 3145728, "client": "android/5.2.0"}
+{"ts": "2021-12-06T08:06:13.839Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422751, "path": "/st/ua3b/WSqmYK1JMP.jpg", "ms": 111}
+{"ts": "2021-12-06T08:06:48.470Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 35382, "format": "jpg", "bytes": 3145728, "client": "android/5.2.0"}
+{"ts": "2021-12-06T08:06:48.856Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422752, "path": "/st/u59c/7ysisrNsWE.jpg", "ms": 99}
+{"ts": "2021-12-06T08:08:13.766Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 35382, "format": "jpg", "bytes": 3670016, "client": "android/5.2.0"}
+{"ts": "2021-12-06T08:08:13.859Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422753, "path": "/st/ud4a/wA8CPPPfEY.jpg", "ms": 50}
+{"ts": "2021-12-06T08:11:35.192Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 35382, "format": "jpg", "bytes": 3565158, "client": "android/5.2.0"}
+{"ts": "2021-12-06T08:11:35.381Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422754, "path": "/st/ue49/XD3yVYceDk.jpg", "ms": 70}
+{"ts": "2021-12-06T10:08:49.498Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 35382, "format": "jpg", "bytes": 2202009, "client": "android/5.2.0"}
+{"ts": "2021-12-06T10:08:49.732Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422755, "path": "/st/uf99/XEpTjvi4k9.jpg", "ms": 65}
+{"ts": "2021-12-06T13:39:24.795Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 28926, "format": "heic", "bytes": 2097152, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T13:39:25.013Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422756, "path": "/st/z551/SeSyM6EJPE.heic", "ms": 74}
+{"ts": "2021-12-06T13:46:56.397Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 28926, "format": "heic", "bytes": 1992294, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T13:46:56.451Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422757, "path": "/st/y70a/93QnijPmdM.heic", "ms": 159}
+{"ts": "2021-12-06T13:47:41.383Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 28926, "format": "heic", "bytes": 3040870, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T13:47:41.726Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422758, "path": "/st/u532/eSpmiaIlJm.heic", "ms": 181}
+{"ts": "2021-12-06T15:14:41.878Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 83244, "format": "heic", "bytes": 2202009, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T15:14:42.223Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422759, "path": "/st/x3df/V9srDXo37V.heic", "ms": 147}
+{"ts": "2021-12-06T15:17:28.170Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 83244, "format": "heic", "bytes": 1468006, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T15:17:28.292Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422760, "path": "/st/x2c2/SYHuFJSWoS.heic", "ms": 105}
+{"ts": "2021-12-06T15:39:21.668Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 76523, "format": "heic", "bytes": 1258291, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T15:39:21.993Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422761, "path": "/st/ua3/Jt5CMncSV5.heic", "ms": 123}
+{"ts": "2021-12-06T15:45:17.078Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 76523, "format": "heic", "bytes": 2202009, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T15:45:17.222Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422762, "path": "/st/u7c/olUsdePDWg.heic", "ms": 117}
+{"ts": "2021-12-06T15:47:06.695Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 76523, "format": "heic", "bytes": 1258291, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T15:47:06.808Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422763, "path": "/st/u489/MVCn5EjHBm.heic", "ms": 80}
+{"ts": "2021-12-06T15:47:11.974Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 76523, "format": "jpg", "bytes": 2097152, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T15:47:12.344Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422764, "path": "/st/y149/T38ctk2vkF.jpg", "ms": 61}
+{"ts": "2021-12-06T15:57:42.522Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 15778, "format": "jpg", "bytes": 3670016, "client": "android/5.2.0"}
+{"ts": "2021-12-06T15:57:42.661Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422765, "path": "/st/u75b/JE4bwnkAaG.jpg", "ms": 91}
+{"ts": "2021-12-06T16:26:26.226Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 55815, "format": "heic", "bytes": 2411724, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T16:26:26.503Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422766, "path": "/st/y2eb/z5dSfpV4gg.heic", "ms": 103}
+{"ts": "2021-12-06T16:39:11.978Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 74828, "format": "jpg", "bytes": 4613734, "client": "android/5.2.0"}
+{"ts": "2021-12-06T16:39:12.087Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422767, "path": "/st/x944/0qkLuFIPOT.jpg", "ms": 116}
+{"ts": "2021-12-06T16:40:12.438Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 74828, "format": "jpg", "bytes": 2831155, "client": "android/5.2.0"}
+{"ts": "2021-12-06T16:40:12.525Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422768, "path": "/st/x4eb/D2HAJzW1T0.jpg", "ms": 76}
+{"ts": "2021-12-06T16:40:15.280Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 74828, "format": "jpg", "bytes": 4613734, "client": "android/5.2.0"}
+{"ts": "2021-12-06T16:40:15.486Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422769, "path": "/st/y91d/1p0c6ULozN.jpg", "ms": 110}
+{"ts": "2021-12-06T16:42:26.058Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 74828, "format": "jpg", "bytes": 2621440, "client": "android/5.2.0"}
+{"ts": "2021-12-06T16:42:26.226Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422770, "path": "/st/u7df/NxmryhxFTl.jpg", "ms": 137}
+{"ts": "2021-12-06T16:42:28.423Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 74828, "format": "jpg", "bytes": 3670016, "client": "android/5.2.0"}
+{"ts": "2021-12-06T16:42:28.600Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422771, "path": "/st/ua91/AutCnCU2tW.jpg", "ms": 130}
+{"ts": "2021-12-06T16:44:18.138Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 74828, "format": "jpg", "bytes": 4404019, "client": "android/5.2.0"}
+{"ts": "2021-12-06T16:44:18.181Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422772, "path": "/st/z911/QWOzWsoUpY.jpg", "ms": 106}
+{"ts": "2021-12-06T16:44:40.512Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 54351, "format": "jpg", "bytes": 5452595, "client": "android/5.2.0"}
+{"ts": "2021-12-06T16:44:40.818Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422773, "path": "/st/x16d/5ijV0aiKex.jpg", "ms": 90}
+{"ts": "2021-12-06T16:44:40.818Z", "level": "WARNING", "service": "upload", "instance": "upload-1", "event": "quota_warning", "user_id": 54351, "photos": 5124, "quota": 5500}
+{"ts": "2021-12-06T16:49:53.283Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 54351, "format": "jpg", "bytes": 10695475, "client": "web"}
+{"ts": "2021-12-06T16:49:53.630Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422774, "path": "/st/x7d/pjMgOZx8cg.jpg", "ms": 68}
+{"ts": "2021-12-06T16:49:53.630Z", "level": "WARNING", "service": "upload", "instance": "upload-1", "event": "quota_warning", "user_id": 54351, "photos": 5124, "quota": 5500}
+{"ts": "2021-12-06T16:52:24.000Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 22127, "format": "jpg", "bytes": 2516582, "client": "android/5.2.0"}
+{"ts": "2021-12-06T16:52:24.352Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422775, "path": "/st/u255/eBqSwhUxME.jpg", "ms": 108}
+{"ts": "2021-12-06T16:53:51.135Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 22127, "format": "jpg", "bytes": 4718592, "client": "android/5.2.0"}
+{"ts": "2021-12-06T16:53:51.486Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422776, "path": "/st/u350/ZFknv8Wadp.jpg", "ms": 65}
+{"ts": "2021-12-06T16:55:21.291Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 22127, "format": "jpg", "bytes": 3670016, "client": "android/5.2.0"}
+{"ts": "2021-12-06T16:55:21.521Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422777, "path": "/st/yf26/hzW8AohDjv.jpg", "ms": 127}
+{"ts": "2021-12-06T17:23:14.152Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 57951, "format": "jpg", "bytes": 5138022, "client": "android/5.2.0"}
+{"ts": "2021-12-06T17:23:14.381Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422778, "path": "/st/x562/NqSjBXEGBV.jpg", "ms": 78}
+{"ts": "2021-12-06T17:23:51.949Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 57951, "format": "jpg", "bytes": 6081740, "client": "android/5.2.0"}
+{"ts": "2021-12-06T17:23:52.167Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422779, "path": "/st/y85f/5tGRS9NkLS.jpg", "ms": 83}
+{"ts": "2021-12-06T17:24:26.719Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 57951, "format": "jpg", "bytes": 3984588, "client": "android/5.2.0"}
+{"ts": "2021-12-06T17:24:26.929Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422780, "path": "/st/u254/BcDiHtsFwn.jpg", "ms": 111}
+{"ts": "2021-12-06T18:26:22.301Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 54351, "format": "jpg", "bytes": 2726297, "client": "android/5.2.0"}
+{"ts": "2021-12-06T18:26:22.560Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422781, "path": "/st/u370/uPVjJ3d5R6.jpg", "ms": 98}
+{"ts": "2021-12-06T18:26:22.560Z", "level": "WARNING", "service": "upload", "instance": "upload-3", "event": "quota_warning", "user_id": 54351, "photos": 5124, "quota": 5500}
+{"ts": "2021-12-06T18:47:35.531Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 75154, "format": "jpg", "bytes": 2831155, "client": "android/5.2.0"}
+{"ts": "2021-12-06T18:47:35.759Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422782, "path": "/st/x1df/gwDy0KLUvX.jpg", "ms": 119}
+{"ts": "2021-12-06T18:48:01.909Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 75154, "format": "jpg", "bytes": 2621440, "client": "android/5.2.0"}
+{"ts": "2021-12-06T18:48:02.005Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422783, "path": "/st/yd71/GT1lIvFEW2.jpg", "ms": 92}
+{"ts": "2021-12-06T18:48:18.445Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 94703, "format": "jpg", "bytes": 14889779, "client": "web"}
+{"ts": "2021-12-06T18:48:18.687Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422784, "path": "/st/uccf/hUSsXzDvDB.jpg", "ms": 73}
+{"ts": "2021-12-06T18:50:04.435Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 94703, "format": "heic", "bytes": 2306867, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T18:50:04.611Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422785, "path": "/st/y4d1/OmfckC3k53.heic", "ms": 118}
+{"ts": "2021-12-06T18:50:23.594Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 94927, "format": "heic", "bytes": 1572864, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T18:50:23.984Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422786, "path": "/st/y7f1/DgjoD46g1h.heic", "ms": 142}
+{"ts": "2021-12-06T18:51:12.028Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 75154, "format": "png", "bytes": 524288, "client": "android/5.2.0"}
+{"ts": "2021-12-06T18:51:12.334Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422787, "path": "/st/yf6b/2x6BBWj50G.png", "ms": 75}
+{"ts": "2021-12-06T18:51:36.351Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 75154, "format": "jpg", "bytes": 2306867, "client": "android/5.2.0"}
+{"ts": "2021-12-06T18:51:36.691Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422788, "path": "/st/ycf1/2X1RDlflcL.jpg", "ms": 97}
+{"ts": "2021-12-06T19:01:33.069Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 54351, "format": "jpg", "bytes": 2936012, "client": "android/5.2.0"}
+{"ts": "2021-12-06T19:01:33.392Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422789, "path": "/st/uf81/tM12IzZ2gR.jpg", "ms": 117}
+{"ts": "2021-12-06T19:01:33.392Z", "level": "WARNING", "service": "upload", "instance": "upload-2", "event": "quota_warning", "user_id": 54351, "photos": 5124, "quota": 5500}
+{"ts": "2021-12-06T19:05:08.732Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 54351, "format": "jpg", "bytes": 31876710, "client": "web"}
+{"ts": "2021-12-06T19:05:08.856Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422790, "path": "/st/u33b/XhrOLKUvKM.jpg", "ms": 74}
+{"ts": "2021-12-06T19:05:08.856Z", "level": "WARNING", "service": "upload", "instance": "upload-3", "event": "quota_warning", "user_id": 54351, "photos": 5124, "quota": 5500}
+{"ts": "2021-12-06T19:06:00.343Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 54351, "format": "jpg", "bytes": 5872025, "client": "android/5.2.0"}
+{"ts": "2021-12-06T19:06:00.706Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422791, "path": "/st/u6a3/FcfQdKNIkL.jpg", "ms": 124}
+{"ts": "2021-12-06T19:06:00.706Z", "level": "WARNING", "service": "upload", "instance": "upload-2", "event": "quota_warning", "user_id": 54351, "photos": 5124, "quota": 5500}
+{"ts": "2021-12-06T19:06:43.632Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 54351, "format": "jpg", "bytes": 19293798, "client": "web"}
+{"ts": "2021-12-06T19:06:43.902Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422792, "path": "/st/u136/pypaegxzeY.jpg", "ms": 87}
+{"ts": "2021-12-06T19:06:43.902Z", "level": "WARNING", "service": "upload", "instance": "upload-1", "event": "quota_warning", "user_id": 54351, "photos": 5124, "quota": 5500}
+{"ts": "2021-12-06T19:07:26.222Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 54351, "format": "jpg", "bytes": 12058624, "client": "web"}
+{"ts": "2021-12-06T19:07:26.451Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422793, "path": "/st/ze28/ErSGFw4JbR.jpg", "ms": 93}
+{"ts": "2021-12-06T19:07:26.451Z", "level": "WARNING", "service": "upload", "instance": "upload-1", "event": "quota_warning", "user_id": 54351, "photos": 5124, "quota": 5500}
+{"ts": "2021-12-06T19:08:40.004Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 54351, "format": "jpg", "bytes": 4404019, "client": "android/5.2.0"}
+{"ts": "2021-12-06T19:08:40.079Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422794, "path": "/st/u347/bstfWqBnp8.jpg", "ms": 95}
+{"ts": "2021-12-06T19:08:40.079Z", "level": "WARNING", "service": "upload", "instance": "upload-3", "event": "quota_warning", "user_id": 54351, "photos": 5124, "quota": 5500}
+{"ts": "2021-12-06T19:12:16.049Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 54351, "format": "jpg", "bytes": 3250585, "client": "android/5.2.0"}
+{"ts": "2021-12-06T19:12:16.191Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422795, "path": "/st/uada/TahkHmsTen.jpg", "ms": 131}
+{"ts": "2021-12-06T19:12:16.191Z", "level": "WARNING", "service": "upload", "instance": "upload-3", "event": "quota_warning", "user_id": 54351, "photos": 5124, "quota": 5500}
+{"ts": "2021-12-06T19:17:18.528Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 54351, "format": "jpg", "bytes": 3355443, "client": "android/5.2.0"}
+{"ts": "2021-12-06T19:17:18.629Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422796, "path": "/st/u45f/YowZ8BqqdB.jpg", "ms": 81}
+{"ts": "2021-12-06T19:17:18.629Z", "level": "WARNING", "service": "upload", "instance": "upload-1", "event": "quota_warning", "user_id": 54351, "photos": 5124, "quota": 5500}
+{"ts": "2021-12-06T19:17:49.572Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 54351, "format": "jpg", "bytes": 5662310, "client": "android/5.2.0"}
+{"ts": "2021-12-06T19:17:49.795Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422797, "path": "/st/yee/RNUyCvSDYg.jpg", "ms": 114}
+{"ts": "2021-12-06T19:17:49.795Z", "level": "WARNING", "service": "upload", "instance": "upload-1", "event": "quota_warning", "user_id": 54351, "photos": 5124, "quota": 5500}
+{"ts": "2021-12-06T19:18:55.897Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 54351, "format": "jpg", "bytes": 2516582, "client": "android/5.2.0"}
+{"ts": "2021-12-06T19:18:56.079Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422798, "path": "/st/u337/nInqDTd1j4.jpg", "ms": 68}
+{"ts": "2021-12-06T19:18:56.079Z", "level": "WARNING", "service": "upload", "instance": "upload-1", "event": "quota_warning", "user_id": 54351, "photos": 5124, "quota": 5500}
+{"ts": "2021-12-06T19:18:58.760Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 54351, "format": "jpg", "bytes": 6186598, "client": "android/5.2.0"}
+{"ts": "2021-12-06T19:18:58.932Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422799, "path": "/st/u6fd/BCNnldSGsr.jpg", "ms": 124}
+{"ts": "2021-12-06T19:18:58.932Z", "level": "WARNING", "service": "upload", "instance": "upload-3", "event": "quota_warning", "user_id": 54351, "photos": 5124, "quota": 5500}
+{"ts": "2021-12-06T19:34:59.479Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 75154, "format": "jpg", "bytes": 6501171, "client": "android/5.2.0"}
+{"ts": "2021-12-06T19:34:59.626Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422800, "path": "/st/ub0b/RlK22scUJm.jpg", "ms": 57}
+{"ts": "2021-12-06T19:37:34.740Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 10920, "format": "png", "bytes": 734003, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T19:37:34.958Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422801, "path": "/st/x577/jNZqSiYbFZ.png", "ms": 42}
+{"ts": "2021-12-06T19:37:48.961Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 10920, "format": "heic", "bytes": 1992294, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T19:37:49.157Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422802, "path": "/st/xba4/mbGOFffbeM.heic", "ms": 135}
+{"ts": "2021-12-06T19:38:11.592Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 10920, "format": "heic", "bytes": 1677721, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T19:38:11.748Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422803, "path": "/st/u1f1/XrcCxhtrBL.heic", "ms": 66}
+{"ts": "2021-12-06T19:38:38.341Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 10920, "format": "heic", "bytes": 1887436, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T19:38:38.656Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422804, "path": "/st/u2f4/szwWlb7jtc.heic", "ms": 138}
+{"ts": "2021-12-06T19:39:52.842Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 10920, "format": "heic", "bytes": 1992294, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T19:39:53.043Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422805, "path": "/st/ufd3/FHuHgUZYwV.heic", "ms": 64}
+{"ts": "2021-12-06T19:39:58.661Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 10920, "format": "jpg", "bytes": 2097152, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T19:39:58.896Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422806, "path": "/st/x947/AgwBk3Gwon.jpg", "ms": 124}
+{"ts": "2021-12-06T19:40:14.234Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 10920, "format": "heic", "bytes": 1887436, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T19:40:14.564Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422807, "path": "/st/x5de/Uc2ZmDKERi.heic", "ms": 120}
+{"ts": "2021-12-06T19:40:32.355Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 10920, "format": "heic", "bytes": 2202009, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T19:40:32.646Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422808, "path": "/st/x377/7Oy9PNjbsP.heic", "ms": 98}
+{"ts": "2021-12-06T19:41:50.807Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 10920, "format": "heic", "bytes": 2516582, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T19:41:51.133Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422809, "path": "/st/ze1d/qnEXqrnU6G.heic", "ms": 87}
+{"ts": "2021-12-06T19:42:22.558Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 10920, "format": "jpg", "bytes": 7025459, "client": "web"}
+{"ts": "2021-12-06T19:42:22.810Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422810, "path": "/st/u4bf/152vhYWdRE.jpg", "ms": 98}
+{"ts": "2021-12-06T19:44:16.923Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 10920, "format": "jpg", "bytes": 3355443, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T19:44:17.257Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422811, "path": "/st/ub52/XxPBkByZv6.jpg", "ms": 93}
+{"ts": "2021-12-06T19:56:59.348Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 54351, "format": "jpg", "bytes": 4194304, "client": "android/5.2.0"}
+{"ts": "2021-12-06T19:56:59.728Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422812, "path": "/st/yf75/q4UzIfp0ay.jpg", "ms": 117}
+{"ts": "2021-12-06T19:56:59.728Z", "level": "WARNING", "service": "upload", "instance": "upload-2", "event": "quota_warning", "user_id": 54351, "photos": 5124, "quota": 5500}
+{"ts": "2021-12-06T19:58:14.459Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 54351, "format": "jpg", "bytes": 5767168, "client": "android/5.2.0"}
+{"ts": "2021-12-06T19:58:14.823Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422813, "path": "/st/z8c1/YyjBM0K8gE.jpg", "ms": 85}
+{"ts": "2021-12-06T19:58:14.823Z", "level": "WARNING", "service": "upload", "instance": "upload-2", "event": "quota_warning", "user_id": 54351, "photos": 5124, "quota": 5500}
+{"ts": "2021-12-06T20:22:15.092Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 25272, "format": "jpg", "bytes": 4718592, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T20:22:15.259Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422814, "path": "/st/xdd5/FnmkIGHQYx.jpg", "ms": 53}
+{"ts": "2021-12-06T20:31:48.633Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_received", "user_id": 94703, "format": "heic", "bytes": 1677721, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T20:31:48.902Z", "level": "INFO", "service": "upload", "instance": "upload-2", "event": "upload_stored", "photo_id": 133422815, "path": "/st/uab5/cPjWY7vNRQ.heic", "ms": 63}
+{"ts": "2021-12-06T20:35:36.393Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 94703, "format": "heic", "bytes": 3984588, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T20:35:36.566Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422816, "path": "/st/u144/kTVIKw71zK.heic", "ms": 95}
+{"ts": "2021-12-06T21:42:39.186Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_received", "user_id": 52236, "format": "heic", "bytes": 1572864, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T21:42:39.414Z", "level": "INFO", "service": "upload", "instance": "upload-1", "event": "upload_stored", "photo_id": 133422817, "path": "/st/u449/55wtjiGwFD.heic", "ms": 127}
+{"ts": "2021-12-06T21:45:54.113Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 52236, "format": "heic", "bytes": 1677721, "client": "ios/7.4.1"}
+{"ts": "2021-12-06T21:45:54.238Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422818, "path": "/st/u285/F2cA4nemor.heic", "ms": 121}
+{"ts": "2021-12-06T21:55:48.713Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_received", "user_id": 54351, "format": "jpg", "bytes": 3355443, "client": "android/5.2.0"}
+{"ts": "2021-12-06T21:55:48.925Z", "level": "INFO", "service": "upload", "instance": "upload-3", "event": "upload_stored", "photo_id": 133422819, "path": "/st/ya51/4QtZXegDGP.jpg", "ms": 130}
+{"ts": "2021-12-06T21:55:48.925Z", "level": "WARNING", "service": "upload", "instance": "upload-3", "event": "quota_warning", "user_id": 54351, "photos": 5124, "quota": 5500}

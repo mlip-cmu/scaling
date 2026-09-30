@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+out/
+photo-data/data/**/*.parquet
+photo-data/data/VERSION-*
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/

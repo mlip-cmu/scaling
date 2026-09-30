@@ -1,0 +1,20 @@
+{
+  "incidents": [
+    {
+      "id": "thumbnailer-heic",
+      "start": "2021-12-07T15:52:40.000Z",
+      "end": "2021-12-07T23:04:05.000Z",
+      "cause": "thumbnailer 2.8.0 was deployed without HEIC support (pillow-heif not installed); the upload service crashed on each HEIC upload; rollback to 2.7.3",
+      "failed_upload_requests": 125,
+      "affected_users": 7,
+      "ios_crashes": 79
+    },
+    {
+      "id": "credential-stuffing",
+      "start": "2021-12-08T03:05:12.000Z",
+      "end": "2021-12-08T03:24:40.000Z",
+      "cause": "one address (203.0.113.77) tried many account names; blocked by the rate limit",
+      "failed_logins": 190
+    }
+  ]
+}
