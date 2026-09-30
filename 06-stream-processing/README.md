@@ -77,14 +77,15 @@ flowchart LR
     each). The database has 689 writes for 689 results; the notification service sent 286
     notifications.
 - `demo_scaling.py`: new consumer groups with 1 to 8 workers read all 523 messages again
-  (Kafka keeps them). More workers are faster, up to the limits of the partitions:
+  (Kafka keeps them). More workers are faster, up to the limits of the partitions (the times
+  of two runs; they change by a few seconds from run to run):
 
   | workers | time | photos/s | why |
   |---:|---:|---:|---|
-  | 1 | 51.8 s | 10.1 | one worker, 0.1 s per photo |
-  | 3 | 25.7 s | 20.3 | 2 partitions each, but the busiest worker has 228 messages |
-  | 6 | 21.1 s | 24.8 | one partition each: the partition with 181 messages is the bottleneck |
-  | 8 | 21.1 s | 24.8 | only 6 partitions: 2 workers get nothing |
+  | 1 | 52 s | 10 | one worker, 0.1 s per photo |
+  | 3 | 23–26 s | 20–23 | 2 partitions each, but the busiest worker has 228 messages |
+  | 6 | 18–21 s | 25–29 | one partition each: the partition with 181 messages is the bottleneck |
+  | 8 | 20–21 s | 25–26 | only 6 partitions: 2 workers get nothing |
 
 - `demo_delivery.py`: a billing consumer crashes while it processes order 4 of 8:
 
@@ -100,8 +101,9 @@ flowchart LR
 - `demo_ordering.py`: 20 photos, each with 4 events in order (add, title, filter, delete),
   applied by 3 consumers. With the photo as key, all events are applied in order. Without a
   key, the events of a photo go to different partitions, and some photos get their events out
-  of order, for example `deletePhoto -> addPhoto -> updatePhotoData -> replacePhoto`: a
-  deleted photo is visible again.
+  of order (4 to 16 of the 20 photos in our runs), for example
+  `deletePhoto -> addPhoto -> updatePhotoData -> replacePhoto`: a deleted photo is visible
+  again.
 - `object-statistics` (in `components.py`) shows three kinds of stream queries: per event,
   over all events so far (a counter), and per window of 6 hours of upload time. Events can
   arrive late, because partitions are processed at different speeds; the window waits 2 hours

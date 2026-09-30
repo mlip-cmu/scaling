@@ -81,6 +81,8 @@ def lag(group: str, topic: str) -> dict[int, int]:
 
     a = admin()
     parts = a.list_topics(topic, timeout=5).topics[topic].partitions
+    if not parts:
+        raise KafkaException(f"topic {topic} does not exist yet")
     tps = [TopicPartition(topic, p) for p in parts]
     req = ConsumerGroupTopicPartitions(group, tps)
     committed = a.list_consumer_group_offsets([req])[group].result().topic_partitions
