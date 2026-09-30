@@ -1,0 +1,22 @@
+{
+  "type": "record",
+  "name": "Photo",
+  "fields": [
+    {"name": "photo_id", "type": "long"},
+    {"name": "path", "type": "string"},
+    {"name": "upload_date", "type": {"type": "long", "logicalType": "timestamp-millis"}},
+    {"name": "size", "type": "float"},
+    {"name": "format", "type": "string"},
+    {"name": "title", "type": "string"},
+    {"name": "objects", "type": {"type": "array", "items": "string"}},
+    {"name": "user", "type": {
+      "type": "record", "name": "User",
+      "fields": [{"name": "user_id", "type": "long"}, {"name": "account_name", "type": "string"}]}},
+    {"name": "camera", "type": ["null", {
+      "type": "record", "name": "Camera",
+      "fields": [
+        {"name": "manufacturer", "type": "string"},
+        {"name": "print_name", "type": "string"},
+        {"name": "settings", "type": "string"}]}]}
+  ]
+}

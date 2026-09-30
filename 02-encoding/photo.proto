@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+message Photo {
+  int64 photo_id = 1;
+  string path = 2;
+  int64 upload_date = 3;  // milliseconds since 1970
+  float size = 4;
+  string format = 5;
+  string title = 6;
+  repeated string objects = 7;
+  User user = 8;
+  optional Camera camera = 9;
+}
+
+message User {
+  int64 user_id = 1;
+  string account_name = 2;
+}
+
+message Camera {
+  string manufacturer = 1;
+  string print_name = 2;
+  string settings = 3;
+}
+
+message PhotoList {
+  repeated Photo photos = 1;
+}

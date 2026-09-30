@@ -24,6 +24,7 @@ jobs:
       matrix:
         project:
           - photo-data
+          - 02-encoding
           - 05-mapreduce
           - 06-stream-processing
           - 07-event-sourcing

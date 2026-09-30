@@ -1,0 +1,18 @@
+[project]
+name = "sc02-encoding"
+version = "0.1.0"
+description = "The same photo records as CSV, JSON, Avro, Protocol Buffers, and Parquet"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+    "photo-data",
+    "fastavro>=1.12",
+    "protobuf>=6",
+    "grpcio-tools>=1.70",
+    "pyarrow>=21",
+]
+
+[tool.uv]
+package = false
+
+[tool.uv.sources]
+photo-data = { path = "../photo-data", editable = true }
