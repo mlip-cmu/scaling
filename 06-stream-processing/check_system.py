@@ -7,10 +7,10 @@ import sqlite3
 import subprocess
 import time
 
-from confluent_kafka import Consumer, ConsumerGroupTopicPartitions, KafkaException, TopicPartition
+from confluent_kafka import Consumer, KafkaException, TopicPartition
 
 import photo_data
-from common import BOOTSTRAP, admin, lag
+from common import BOOTSTRAP, admin, group_reader, lag
 from components import COMPONENTS, TOPICS
 
 photos = photo_data.photos()
@@ -55,8 +55,8 @@ for g, f in a.describe_consumer_groups(names).items():
             by_topic.setdefault(tp.topic, []).append(tp.partition)
         parts.append(" ".join(f"{t}{sorted(p)}" for t, p in sorted(by_topic.items())))
     print(f"   {g:<20} {len(d.members)} member(s): " + " | ".join(sorted(parts)))
-req = [ConsumerGroupTopicPartitions("object-detection", [TopicPartition("new_photos", 0)])]
-offset = a.list_consumer_group_offsets(req)["object-detection"].result().topic_partitions[0]
+tp = TopicPartition("new_photos", 0)
+offset = group_reader("object-detection").committed([tp], timeout=5)[0]
 print(f"   (object-detection has read partition 0 up to offset {offset.offset})\n")
 
 rows, writes, friends = db.execute(

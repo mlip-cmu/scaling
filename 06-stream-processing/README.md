@@ -114,8 +114,8 @@ flowchart LR
 - [Apache Kafka](https://kafka.apache.org): a distributed, persistent message broker (event
   log). Here: one broker in Docker, with topics, partitions, and consumer groups.
 - [confluent-kafka](https://docs.confluent.io/kafka-clients/python/current/overview.html): the
-  Python client of Kafka (based on librdkafka). Here: producers, consumers, and the admin API
-  for topics and lag.
+  Python client of Kafka (based on librdkafka). Here: producers, consumers (also to read the
+  lag of a group), and the admin API for topics and groups.
 - [Docker Compose](https://docs.docker.com/compose/): starts a set of containers from one
   file. Here: the broker and all components; `--scale` starts more instances.
 - [Kafka UI](https://github.com/kafbat/kafka-ui): a web interface for Kafka. Here: optional,

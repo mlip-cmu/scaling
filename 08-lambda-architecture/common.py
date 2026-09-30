@@ -1,11 +1,12 @@
 """Small helpers around the Kafka client: topics, producers, consumers, and logging."""
 
+import functools
 import json
 import os
 import socket
 import time
 
-from confluent_kafka import Consumer, KafkaException, Producer
+from confluent_kafka import Consumer, KafkaException, Producer, TopicPartition
 from confluent_kafka.admin import AdminClient, NewTopic
 
 BOOTSTRAP = os.environ.get("KAFKA_BOOTSTRAP", "localhost:9092")
@@ -75,21 +76,25 @@ def consumer(group: str, topics: list[str], verbose: bool = True, on_assign=None
     return c
 
 
+@functools.cache
+def group_reader(group: str) -> Consumer:
+    """A consumer that reads the committed offsets of a group. It does not join the group.
+
+    (The same call of the admin client can crash librdkafka while the broker starts.)
+    """
+    return Consumer(
+        {"bootstrap.servers": BOOTSTRAP, "group.id": group, "enable.auto.commit": False}
+    )
+
+
 def lag(group: str, topic: str) -> dict[int, int]:
     """Messages per partition that the consumer group has not processed yet."""
-    from confluent_kafka import ConsumerGroupTopicPartitions, TopicPartition
-
-    a = admin()
-    parts = a.list_topics(topic, timeout=5).topics[topic].partitions
+    c = group_reader(group)
+    parts = c.list_topics(topic, timeout=5).topics[topic].partitions
     if not parts:
         raise KafkaException(f"topic {topic} does not exist yet")
-    tps = [TopicPartition(topic, p) for p in parts]
-    req = ConsumerGroupTopicPartitions(group, tps)
-    committed = a.list_consumer_group_offsets([req])[group].result().topic_partitions
-    c = Consumer({"bootstrap.servers": BOOTSTRAP, "group.id": "lag-reader"})
     out = {}
-    for tp in committed:
-        _, high = c.get_watermark_offsets(TopicPartition(topic, tp.partition), timeout=5)
+    for tp in c.committed([TopicPartition(topic, p) for p in parts], timeout=5):
+        _, high = c.get_watermark_offsets(tp, timeout=5)
         out[tp.partition] = high - max(tp.offset, 0)
-    c.close()
     return out
