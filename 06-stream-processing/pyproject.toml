@@ -1,0 +1,15 @@
+[project]
+name = "sc06-stream-processing"
+version = "0.1.0"
+description = "A stream processing system with Kafka: producers, consumer groups, delivery guarantees"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+    "photo-data",
+    "confluent-kafka>=2.15",
+]
+
+[tool.uv]
+package = false
+
+[tool.uv.sources]
+photo-data = { path = "../photo-data", editable = true }

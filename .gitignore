@@ -7,3 +7,4 @@ photo-data/data/VERSION-*
 .pytest_cache/
 .ruff_cache/
 .ipynb_checkpoints/
+compose.override.yaml

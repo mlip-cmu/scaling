@@ -5,4 +5,4 @@ target-version = "py312"
 select = ["E", "F", "I", "UP", "B"]
 
 [lint.isort]
-known-first-party = ["photo_data"]
+known-first-party = ["photo_data", "common", "components"]

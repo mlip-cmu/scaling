@@ -24,6 +24,7 @@ jobs:
       matrix:
         project:
           - photo-data
+          - 06-stream-processing
     steps:
       - uses: actions/checkout@v4
       - uses: astral-sh/setup-uv@v6
