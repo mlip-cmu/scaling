@@ -29,6 +29,7 @@ jobs:
           - 06-stream-processing
           - 07-event-sourcing
           - 08-lambda-architecture
+          - 09-log-lake
           - 10-stream-monitoring
     steps:
       - uses: actions/checkout@v4

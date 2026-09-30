@@ -1,0 +1,16 @@
+[project]
+name = "sc09-log-lake"
+version = "0.1.0"
+description = "A log lake with Loki: raw logs, patterns, and schema-on-read with LogQL"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+    "photo-data",
+    "httpx>=0.28",
+    "drain3>=0.9.11",
+]
+
+[tool.uv]
+package = false
+
+[tool.uv.sources]
+photo-data = { path = "../photo-data", editable = true }

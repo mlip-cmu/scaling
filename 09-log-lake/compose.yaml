@@ -1,0 +1,21 @@
+# A small log lake: Loki stores raw log lines; Grafana explores them.
+#   docker compose up -d                  Loki only
+#   docker compose --profile ui up -d     also Grafana on http://localhost:3000 (Explore, Drilldown)
+
+services:
+  loki:
+    image: grafana/loki:3.7.8
+    command: ["-config.file=/etc/loki/loki.yaml"]
+    volumes: ["./loki.yaml:/etc/loki/loki.yaml:ro"]
+    ports: ["3100:3100"]
+
+  grafana:
+    image: grafana/grafana:13.0.10
+    profiles: [ui]
+    environment:
+      GF_AUTH_ANONYMOUS_ENABLED: "true"
+      GF_AUTH_ANONYMOUS_ORG_ROLE: Admin
+      GF_AUTH_DISABLE_LOGIN_FORM: "true"
+    volumes: ["./grafana-datasources.yaml:/etc/grafana/provisioning/datasources/loki.yaml:ro"]
+    ports: ["3000:3000"]
+    depends_on: [loki]
