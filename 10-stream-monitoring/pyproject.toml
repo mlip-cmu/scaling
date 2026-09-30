@@ -1,0 +1,20 @@
+[project]
+name = "sc10-stream-monitoring"
+version = "0.1.0"
+description = "The stream processing system of 06 with traces, metrics, dashboards, and a profiler"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+    "photo-data",
+    "confluent-kafka>=2.15",
+    "opentelemetry-sdk>=1.45",
+    "opentelemetry-exporter-otlp-proto-http>=1.45",
+    "prometheus-client>=0.26",
+    "pyinstrument>=5.1",
+    "httpx>=0.28",
+]
+
+[tool.uv]
+package = false
+
+[tool.uv.sources]
+photo-data = { path = "../photo-data", editable = true }

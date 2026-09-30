@@ -16,6 +16,7 @@ demo() {
             && uv run demo_ordering.py && uv run dataflow.py ;;
     07-*) notebook event_sourcing.ipynb ;;
     08-*) uv run watch.py ;;
+    10-*) uv run check_monitoring.py && uv run profile_detector.py ;;
     *) echo "unknown project: $1" >&2; return 1 ;;
   esac
 }

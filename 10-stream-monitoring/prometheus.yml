@@ -1,0 +1,14 @@
+global:
+  scrape_interval: 2s
+
+scrape_configs:
+  - job_name: photo-service
+    dns_sd_configs:  # the DNS name of a compose service returns the address of each instance
+      - names: [uploader-app, uploader-web, object-detector, object-detector-slow,
+                friend-detector, notification-service, object-statistics, db-writer]
+        type: A
+        port: 8000
+        refresh_interval: 5s
+    relabel_configs:  # keep the name of the compose service as a label
+      - source_labels: [__meta_dns_name]
+        target_label: service

@@ -1,0 +1,6 @@
+apiVersion: 1
+providers:
+  - name: photo-service
+    type: file
+    options:
+      path: /var/lib/grafana/dashboards

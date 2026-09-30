@@ -29,6 +29,7 @@ jobs:
           - 06-stream-processing
           - 07-event-sourcing
           - 08-lambda-architecture
+          - 10-stream-monitoring
     steps:
       - uses: actions/checkout@v4
       - uses: astral-sh/setup-uv@v6
