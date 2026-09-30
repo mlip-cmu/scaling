@@ -13,6 +13,7 @@ demo() {
     01-*) uv run load.py && uv run queries.py ;;
     02-*) uv run formats.py ;;
     03-*) notebook partitioning.ipynb ;;
+    04-*) uv run demo.py ;;
     05-*) ./local.sh && uv run run_hadoop.py ;;
     06-*) uv run check_system.py && uv run demo_scaling.py 1 3 6 8 && uv run demo_delivery.py \
             && uv run demo_ordering.py && uv run dataflow.py ;;

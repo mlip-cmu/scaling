@@ -27,6 +27,7 @@ jobs:
           - 01-storage-models
           - 02-encoding
           - 03-partitioning
+          - 04-microservices
           - 05-mapreduce
           - 06-stream-processing
           - 07-event-sourcing
