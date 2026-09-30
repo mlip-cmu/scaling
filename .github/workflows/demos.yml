@@ -1,0 +1,45 @@
+name: demos
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+        with:
+          version: "0.12.19"
+      - run: uvx ruff@0.16.9 check .
+      - run: uvx ruff@0.16.9 format --check .
+
+  demo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    strategy:
+      fail-fast: false
+      matrix:
+        project:
+          - photo-data
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+        with:
+          version: "0.12.19"
+          enable-cache: true
+      - run: ./run_all.sh ${{ matrix.project }}
+      - name: The committed data files match the generator
+        if: matrix.project == 'photo-data'
+        run: |
+          uv run --directory photo-data photo-data --force
+          git status --porcelain -- photo-data/data
+          test -z "$(git status --porcelain -- photo-data/data)"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: out-${{ matrix.project }}
+          path: ${{ matrix.project }}/out/
+          if-no-files-found: ignore
