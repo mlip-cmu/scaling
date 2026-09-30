@@ -24,7 +24,9 @@ jobs:
       matrix:
         project:
           - photo-data
+          - 05-mapreduce
           - 06-stream-processing
+          - 07-event-sourcing
     steps:
       - uses: actions/checkout@v4
       - uses: astral-sh/setup-uv@v6

@@ -10,8 +10,10 @@ notebook() { uv run jupyter nbconvert --to notebook --execute --inplace "$1"; }
 demo() {
   case "$1" in
     photo-data) uv run photo-data && uv run pytest -q ;;
+    05-*) ./local.sh && uv run run_hadoop.py ;;
     06-*) uv run check_system.py && uv run demo_scaling.py 1 3 6 8 && uv run demo_delivery.py \
             && uv run demo_ordering.py && uv run dataflow.py ;;
+    07-*) notebook event_sourcing.ipynb ;;
     *) echo "unknown project: $1" >&2; return 1 ;;
   esac
 }

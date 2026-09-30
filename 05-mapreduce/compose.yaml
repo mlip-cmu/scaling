@@ -1,0 +1,45 @@
+# A small Hadoop cluster: one NameNode (HDFS metadata), one ResourceManager (YARN scheduler),
+# and three workers. Each worker stores data (DataNode) and runs tasks (NodeManager), so
+# that tasks can run where their data is.
+#   docker compose up -d        start the cluster
+#   http://localhost:9870       HDFS: data nodes, files, and blocks
+#   http://localhost:8088       YARN: jobs and tasks
+
+x-hadoop: &hadoop
+  image: apache/hadoop:3.5.0
+  env_file: hadoop.env
+  volumes:
+    - ../photo-data/data/logs:/data/logs:ro
+    - .:/job:ro
+
+x-worker: &worker
+  <<: *hadoop
+  command: ["bash", "-c", "hdfs datanode & yarn nodemanager"]
+  depends_on: [namenode, resourcemanager]
+
+services:
+  namenode:
+    <<: *hadoop
+    hostname: namenode
+    command: ["hdfs", "namenode"]
+    environment:
+      ENSURE_NAMENODE_DIR: /tmp/hadoop-hadoop/dfs/name
+    ports: ["9870:9870"]
+    healthcheck:
+      test: curl -sf http://localhost:9870/ > /dev/null
+      interval: 5s
+      retries: 30
+
+  resourcemanager:
+    <<: *hadoop
+    hostname: resourcemanager
+    command: ["yarn", "resourcemanager"]
+    ports: ["8088:8088"]
+    healthcheck:
+      test: curl -sf http://resourcemanager:8088/ > /dev/null
+      interval: 5s
+      retries: 30
+
+  worker1: { <<: *worker, hostname: worker1 }
+  worker2: { <<: *worker, hostname: worker2 }
+  worker3: { <<: *worker, hostname: worker3 }
