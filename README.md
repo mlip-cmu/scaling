@@ -43,7 +43,7 @@ docker compose down -v           # stop and remove everything
 | Data Storage Basics; Relational Data Models; Document Data Models; Log files, unstructured data; Tradeoffs | [`01-storage-models`](01-storage-models/) | PostgreSQL, MongoDB |
 | Data Encoding | [`02-encoding`](02-encoding/) | CSV, JSON, Avro, Protocol Buffers, Parquet |
 | Distributed Data Storage; Replication vs Partitioning; Partitioning | [`03-partitioning`](03-partitioning/) | consistent hashing, DuckDB, Jupyter |
-| Data Processing (Overview); Microservices; API Gateway Pattern | [`04-microservices`](04-microservices/) | FastAPI, nginx |
+| Data Processing (Overview); Microservices; API Gateway Pattern | [`04-microservices`](04-microservices/) | FastAPI, Node.js, Java, Docker, nginx |
 | Batch Processing; Large Jobs; Distributed Batch Processing; MapReduce -- Functional Programming Style; Machine Learning and MapReduce; Dataflow Engines; Key Design Principle: Data Locality | [`05-mapreduce`](05-mapreduce/) | shell tools, Hadoop (HDFS, YARN, Streaming) |
 | Stream Processing (e.g., Kafka); Messaging Systems; Common Designs; Stream Queries; Consumers; Design Questions; Stream Processing and AI-enabled Systems?; Reasoning about Dataflows | [`06-stream-processing`](06-stream-processing/) | Kafka, confluent-kafka |
 | Event Sourcing; Benefits of Immutability (Event Sourcing); Drawbacks of Immutable Data | [`07-event-sourcing`](07-event-sourcing/) | SQLite, Jupyter |

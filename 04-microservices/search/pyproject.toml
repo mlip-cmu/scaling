@@ -1,0 +1,12 @@
+[project]
+name = "sc04-search"
+version = "0.1.0"
+description = "The search service of the photo service"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+    "fastapi>=0.141",
+    "uvicorn>=0.54",
+]
+
+[tool.uv]
+package = false

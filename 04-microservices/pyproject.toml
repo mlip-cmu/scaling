@@ -5,8 +5,6 @@ description = "Microservices behind an API gateway: routing, authentication, loa
 requires-python = ">=3.12,<3.14"
 dependencies = [
     "photo-data",
-    "fastapi>=0.141",
-    "uvicorn>=0.54",
     "httpx>=0.28",
 ]
 

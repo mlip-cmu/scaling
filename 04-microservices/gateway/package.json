@@ -1,0 +1,9 @@
+{
+  "name": "sc04-gateway",
+  "version": "0.1.0",
+  "description": "The API gateway of the photo service",
+  "type": "module",
+  "private": true,
+  "engines": { "node": ">=22" },
+  "scripts": { "start": "node gateway.js" }
+}

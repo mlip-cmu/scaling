@@ -1,31 +1,26 @@
-# Four services and a load balancer. Only the gateway is reachable from outside.
+# Four services in three languages and a load balancer. Only the gateway is reachable from
+# outside. Each service has its own folder, Dockerfile, and copy of the data it needs.
 #   docker compose up -d --build
 #   curl -H "Authorization: Bearer token-ckaestne" localhost:8080/api/photos/133422131
 
-x-service: &service
-  build:
-    context: ..
-    dockerfile: 04-microservices/Dockerfile
-  image: photos-services
+x-data: &data
+  additional_contexts:
+    data: ../photo-data/data/tables # the CSV files of the dataset
 
 services:
-  gateway:
-    <<: *service
-    command: [gateway]
+  gateway: # JavaScript (Node.js)
+    build: { context: gateway, <<: *data }
     ports: ["8080:8000"]
     depends_on: [photos, search, keywords-lb]
 
-  photos:
-    <<: *service
-    command: [photos]
+  photos: # Java
+    build: { context: photos, <<: *data }
 
-  search:
-    <<: *service
-    command: [search]
+  search: # Python (FastAPI)
+    build: { context: search, <<: *data }
 
-  keywords:
-    <<: *service
-    command: [keywords]
+  keywords: # Python (FastAPI)
+    build: { context: keywords, <<: *data }
     deploy: { replicas: 3 }
 
   keywords-lb:
