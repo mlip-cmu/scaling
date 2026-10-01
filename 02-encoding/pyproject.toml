@@ -9,6 +9,9 @@ dependencies = [
     "protobuf>=6",
     "grpcio-tools>=1.70",
     "pyarrow>=21",
+    "pandas>=2.3",
+    "jupyter>=1.1",
+    "nbconvert>=7.16",
 ]
 
 [tool.uv]

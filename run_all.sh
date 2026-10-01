@@ -14,7 +14,7 @@ demo() {
   case "$1" in
     photo-data) uv run photo-data && uv run pytest -q ;;
     01-*) notebook storage_models.ipynb ;;
-    02-*) uv run formats.py ;;
+    02-*) notebook encoding.ipynb ;;
     03-*) notebook partitioning.ipynb ;;
     04-*) uv run demo.py ;;
     05-*) ./local.sh && uv run run_hadoop.py ;;

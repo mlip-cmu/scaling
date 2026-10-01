@@ -29,15 +29,16 @@ message Photo {
 ```
 
 Parquet stores each column separately, so a program can read only the columns it needs
-(`formats.py`):
+(`encoding.ipynb`):
 
 ```python
 pq.read_table(io.BytesIO(data), columns=["photo_id", "size"])
 ```
 
-## What the code shows
+## What the notebook shows
 
-`formats.py`:
+Open `encoding.ipynb` on GitHub to see the outputs. A setup cell makes the records; then
+each format has a short section with its write and read code. The comparisons:
 
 1. One photo as one message: JSON 347 bytes (with all field names), CSV 138 bytes (one flat
    line), Avro 132 bytes, Protobuf 144 bytes. As a file, Avro adds a header with the schema
@@ -75,15 +76,17 @@ of this course.
   records with the schema `photo.avsc`.
 - [Protocol Buffers](https://protobuf.dev) (the `protobuf` package, and `grpcio-tools` for
   the compiler `protoc`): Google's schema-based binary encoding, common for remote procedure
-  calls (gRPC). Here: the code for `photo.proto` is generated when the script starts.
+  calls (gRPC). Here: the setup cell generates the code for `photo.proto`.
 - [Apache Parquet](https://parquet.apache.org) with [PyArrow](https://arrow.apache.org/docs/python/):
   a columnar, compressed file format for analytics. Here: the same records as a table with
   nested columns.
+- [Jupyter](https://jupyter.org): notebooks with code and outputs.
 
 ## Run
 
-With [uv](https://docs.astral.sh/uv/):
+Open `encoding.ipynb` on GitHub to see the outputs. To run it again, with
+[uv](https://docs.astral.sh/uv/):
 
 ```sh
-uv run formats.py   # the files are in out/
+uv run jupyter lab encoding.ipynb   # the files are in out/
 ```
