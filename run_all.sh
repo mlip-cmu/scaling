@@ -13,7 +13,7 @@ notebook() {
 demo() {
   case "$1" in
     photo-data) uv run photo-data && uv run pytest -q ;;
-    01-*) uv run load.py && uv run queries.py ;;
+    01-*) notebook storage_models.ipynb ;;
     02-*) uv run formats.py ;;
     03-*) notebook partitioning.ipynb ;;
     04-*) uv run demo.py ;;

@@ -20,7 +20,7 @@ mistakes are possible.
 - *Log files* are unstructured text. It is easy to append a line, but there is no index: each
   question must read all lines.
 
-The same question as SQL and as a MongoDB query (`queries.py`):
+The same question as SQL and as a MongoDB query (`storage_models.ipynb`):
 
 ```sql
 SELECT p.photo_id, p.path, u.photos_total
@@ -32,7 +32,7 @@ WHERE u.user_id = p.user_id AND u.account_name = 'ckaestne'
 db.photos.find({"user.account_name": "ckaestne"})
 ```
 
-A photo document has copies of the user and the camera data inside (`load.py`):
+A photo document has copies of the user and the camera data inside:
 
 ```json
 {"_id": 133388053, "path": "/st/u733/GGf33x4TWS.jpg",
@@ -41,12 +41,14 @@ A photo document has copies of the user and the camera data inside (`load.py`):
             "settings": "ƒ/1.8; 1/60; 4.44mm; ISO422"}}
 ```
 
-## What the code shows
+## What the notebook shows
+
+Open `storage_models.ipynb` on GitHub to see the outputs.
 
 - `schema.sql`: 6 tables with keys; the albums, their photos, and their followers are
   many-to-many relations (tables of pairs).
-- `load.py` loads the same data into PostgreSQL and MongoDB (40,000 photos, 301 albums).
-- `queries.py`:
+- `storage_models.ipynb`: first, one setup cell loads the same data into PostgreSQL and
+  MongoDB (40,000 photos, 301 albums). Then:
   1. The photos of `ckaestne`: 5,124 rows in both databases. `EXPLAIN` shows the plan that
      PostgreSQL chose. Without an index, MongoDB reads all 40,000 documents; with an index on
      `user.account_name`, only 5,124.
@@ -66,14 +68,15 @@ A photo document has copies of the user and the camera data inside (`load.py`):
 - [MongoDB](https://www.mongodb.com) with [PyMongo](https://pymongo.readthedocs.io): a
   document database, and its Python driver. Here: photos and albums as documents.
 - [Docker Compose](https://docs.docker.com/compose/): starts both databases.
+- [Jupyter](https://jupyter.org): notebooks with code and outputs.
 
 ## Run
 
-With [Docker](https://docs.docker.com/get-docker/) and [uv](https://docs.astral.sh/uv/):
+Open `storage_models.ipynb` on GitHub to see the outputs. To run it again, with
+[Docker](https://docs.docker.com/get-docker/) and [uv](https://docs.astral.sh/uv/):
 
 ```sh
-docker compose up -d     # PostgreSQL and MongoDB
-uv run load.py           # the same data in both databases
-uv run queries.py        # the questions and changes
-docker compose down -v   # stop and remove the databases
+docker compose up -d                       # PostgreSQL and MongoDB
+uv run jupyter lab storage_models.ipynb    # load the data, then the questions and changes
+docker compose down -v                     # stop and remove the databases
 ```

@@ -17,7 +17,7 @@ users, 40,000 photos, shared albums, and three days of logs of all parts of the 
 You can read everything on GitHub without running it:
 
 - each project has a README with the problem, the idea, code excerpts, and the results;
-- the notebooks (`03`, `07`) are committed with their outputs;
+- the notebooks (`01`, `03`, `07`) are committed with their outputs;
 - the data is committed as CSV and log files in [`photo-data/data/`](photo-data/data/), and
   [`photo-data/data/preview/`](photo-data/data/preview/) has small extracts.
 
